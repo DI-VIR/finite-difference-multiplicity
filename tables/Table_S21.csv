@@ -1,0 +1,10 @@
+﻿"(L,n)",Value,Source kind,Method,Seed,Proposals,Source row
+"(24,11)",4,Historical solver,SciPy/HiGHS feasibility,Not recorded,Not recorded,0
+"(32,15)",5,Historical construction,profile-aware LB-SOM,20260943,3000,95
+"(40,19)",7,Historical solver,SciPy/HiGHS feasibility,Not recorded,Not recorded,2
+"(48,22)",8,Historical solver,SciPy/HiGHS feasibility,Not recorded,Not recorded,3
+"(64,29)",11,Historical construction,profile-aware LB-SOM,20260948,3000,235
+"(80,37)",14,Historical construction,profile-aware LB-SOM,20260922,3000,251
+"(160,71)",28,Historical construction,profile-aware LB-SOM,20260931,3000,407
+"(256,118)",50,Historical construction,LB-SOM,20260945,3000,582
+"(320,142)",58,Historical construction,profile-aware LB-SOM,20260932,3000,651

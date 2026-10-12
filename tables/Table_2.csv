@@ -1,0 +1,9 @@
+﻿Method,Primary variables,Fixed data,Objective,Retained information
+Assignment length LP,"$z_i,w_{ij,d}$","n, cap one",Minimum span,Pair labels; fractional distance assignments
+Flow-equivalent LPs [17],$\varphi_{ij}$,"n, cap one",Length lower bound,Equivalent classical LP formulations
+Pair counting,$r_d$,"L,n",Multiplicity floor,Total number of pairs
+B_CS,$a_x\in\mathbb R$,"L,n,u",Minimum square sum,Mass only
+B_int,$a_x\in\mathbb Z$,"L,n,u",Minimum square sum,Integer mass
+B_bd,$a_x\in\mathbb Z$,"L,n,u",Minimum square sum,Window second moments; tent capacities; pair labels discarded
+B_walk,$a_x\in\mathbb Z$,"L,n,u",Minimum square sum,Capacities and adjacent increments
+B_real,"$b_i\in\{0,1\}$","L,n,u",Minimum square sum,One binary window profile

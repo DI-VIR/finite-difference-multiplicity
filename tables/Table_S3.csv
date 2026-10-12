@@ -1,0 +1,10 @@
+﻿"(L,n)",B_bd,B_prior,B_comb,Excluded g,Driving cell,Exact Delta,Verification
+"(24,7)",1,2,2,1,"G(1,7)=25 > L-1=23",2,confirmed
+"(28,13)",4,5,5,"1,2,3,4","G(1,8)=34 > L-1=27",not enumerated,lower-bound comparison only
+"(36,11)",2,3,3,"1,2","G(1,9)=44 > L-1=35",not enumerated,lower-bound comparison only
+"(44,9)",1,2,2,1,"G(1,9)=44 > L-1=43",not enumerated,lower-bound comparison only
+"(80,16)",2,3,3,"1,2","G(1,12)=85 > L-1=79",not enumerated,lower-bound comparison only
+"(148,15)",1,2,2,1,"G(1,15)=151 > L-1=147",not enumerated,lower-bound comparison only
+"(156,16)",1,2,2,1,"G(1,16)=177 > L-1=155",not enumerated,lower-bound comparison only
+"(160,16)",1,2,2,1,"G(1,16)=177 > L-1=159",not enumerated,lower-bound comparison only
+"(164,16)",1,2,2,1,"G(1,16)=177 > L-1=163",not enumerated,lower-bound comparison only

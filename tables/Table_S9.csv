@@ -1,0 +1,11 @@
+﻿Domain,Records,Verification
+Nontrivial finite map,252,Complete re-enumeration of lengths 4 through 24
+Binary-window minima,4046,Every window minimum independently regenerated
+Full-interval trivial rows,21,Full-set witness and exact bound checked
+Seven exceptional walk cases,126 windows,Dense and sparse integer DP agree
+Original / strengthened residual vectors,5 / 5,"Exact pair, moment, capacity and parity checks"
+Literature grid,462,Source-cell inversion and 274 / 188 coverage split
+Principal medium witnesses,9,Full coordinate and difference validation
+Modular construction refinement,1350 runs,Pairwise histogram validation of all returned witnesses
+Marker-reduction fixtures,406,Finite construction checks; not a universal proof
+Cross-platform export,LF / CRLF / CR,Normalization regression PASS on Windows; Linux not run

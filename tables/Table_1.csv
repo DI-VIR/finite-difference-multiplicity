@@ -1,0 +1,11 @@
+﻿Symbol,Definition,Scope
+$r_T(d)$,Positive-difference multiplicity,A specified set
+$\delta(T)$,Maximum positive-difference multiplicity,A specified set
+"$\Delta(L,n)$",Minimum possible maximum multiplicity,Complete interval
+"$G(g,n)$",Minimum n-mark diameter at cap g,Integer rulers
+$B_{\mathrm{ph}}$,Pair-counting certificate,Universal lower bound
+"$B_{\mathrm{CS}},B_{\mathrm{int}}$",Real and integer window relaxations,Universal lower bounds
+$B_{\mathrm{bd}}$,Boundary-capacity certificate,Closed form
+$B_{\mathrm{joint}}$,Integer window-pair relaxation,Declared scalar constraints
+"$B_{\mathrm{walk}},B_{\mathrm{real}}$",Walk and exact binary profile benchmarks,Nested profile constraints
+$F_g(L)$,Maximum cardinality under the difference cap g,Difference convention

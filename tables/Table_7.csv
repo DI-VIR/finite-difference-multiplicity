@@ -1,0 +1,5 @@
+﻿Problem,Input,Cap,Complexity and contribution scope
+Complete-interval extremum,"L,n encoded succinctly",Variable,No hardness classification asserted here
+"Classical ruler construction [4,5]","Model-specific marks, length or admissible coordinates",1,Prior algorithmic and hardness results; not a new case
+"Golomb subruler [4,5]","Explicit candidate set, target size",1,Prior distinct-difference selection setting
+Bounded-overlap selection,"Explicit candidate set, target size",$g\geq2$,Strongly NP-complete for each fixed g (Theorem 10)

@@ -1,0 +1,9 @@
+﻿Method,Domain and variables,Fixed data,Finite tent / binary profile,Relation to target
+Classical assignment LP,"$z_i,w_{ij,d}\geq0$","n, distance horizon H, cap one",Not explicit window tent / no,Length lower bound excludes cap one when above L-1
+Equivalent flow descriptions [17],$\varphi_{ij}$ on mark-pair arcs,"n, cap one",Not explicit window tent / no,Equivalent LP length bounds; not independent improvements
+Pair counting,Unlabelled nonnegative multiplicities,"L,n",No / no,Mass divided among L-1 positive distances
+B_CS,Real window counts,"L,n,u",No / no,Closed-form lower bound on maximum multiplicity
+B_int,Integer window counts,"L,n,u",No / no,Integer tightening of real balancing
+B_bd,Capacitated integer window counts,"L,n,u",Yes / no,"Closed-form layer filling, slack and strictness"
+B_walk,Increment-compatible integer counts,"L,n,u",Yes / no,Dynamic-programming relaxation; shared bits discarded
+B_real,Counts from an n-element binary set,"L,n,u",Yes / yes,Exact scalar binary minimum; joint distance structure not enforced

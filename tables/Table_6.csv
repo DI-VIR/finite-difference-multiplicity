@@ -1,0 +1,5 @@
+﻿"(L,n)",Target g,Lower certificate,Decision,Seconds,Nodes,Exact $\Delta$
+"(32,15)",5,B_bd = 5,feasible,0.236,1,5
+"(40,19)",7,B_bd = 7,feasible,1.418,60,7
+"(64,29)",11,B_bd = 11,feasible,5.379,100,11
+"(80,37)",14,B_bd = 14,feasible,287.115,4959,14

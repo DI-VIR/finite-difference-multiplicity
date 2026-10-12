@@ -1,0 +1,10 @@
+﻿Bound,Relaxation,Guaranteed comparison
+$B_{\mathrm{ph}}$,Distribute all mark pairs over L-1 distances,$B_{\mathrm{ph}}\leq\Delta$
+$B_{\mathrm{CS}}$,Real-valued window counts of prescribed sum,$B_{\mathrm{CS}}\leq B_{\mathrm{int}}$
+$B_{\mathrm{int}}$,Integer-valued window counts of prescribed sum,$B_{\mathrm{int}}\leq B_{\mathrm{bd}}$
+$B_{\mathrm{bd}}$,Integer counts plus physical boundary capacities,$B_{\mathrm{bd}}\leq\Delta$
+$B_{\mathrm{prior}}$,Published finite g-Golomb diameters translated by monotonicity,$B_{\mathrm{prior}}\leq\Delta$
+$B_{\mathrm{comb}}$,Pointwise maximum of the two above,$\max\leq\Delta$
+$B_{\mathrm{joint}}$,Window identity at every u plus the complete pair budget,"$\max\{B_{\mathrm{bd}},B_{\mathrm{ph}}\}\leq B_{\mathrm{joint}}\leq\Delta$"
+B_walk,"Capacities, endpoint conditions and adjacent increments",$B_{\mathrm{bd}}\leq B_{\mathrm{walk}}\leq B_{\mathrm{real}}$
+B_real,Exact binary convolution minimum at each u,$B_{\mathrm{real}}\leq\Delta$

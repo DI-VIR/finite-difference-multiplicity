@@ -1,0 +1,8 @@
+﻿"(L,n)",$\Delta$,B_bd,B_walk,B_real,Window triple,Square-sum triple,Closed by B_real?,Obstruction
+"(11,5)",2,1,1,2,3/3/6,58/58/62,Yes,Binary coupling
+"(17,6)",2,1,1,1,4/4/4,32/32/32,No,Scalar moment
+"(18,8)",3,2,2,2,3/3/3,32/32/32,No,Scalar moment
+"(20,11)",5,4,4,4,3/3/3,55/55/55,No,Scalar moment
+"(20,12)",6,5,5,5,3/3/3,64/64/64,No,Scalar moment
+"(23,9)",3,2,2,2,4/4/4,56/56/56,No,Scalar moment
+"(24,7)",2,1,1,2,4/4/13,243/243/249,Yes,Binary coupling

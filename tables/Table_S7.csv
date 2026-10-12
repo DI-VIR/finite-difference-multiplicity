@@ -1,0 +1,21 @@
+﻿Work,Extremal quantity,Regime,Output,Comparable to Delta?,Relation to this paper
+Erdos--Turan [9],Sidon cardinality and diameter,Asymptotic,Bound,Convertible at g=1,Normalization is convertible; unspecified asymptotic remainders are not finite numerical constants
+Singer [8],Perfect difference sets,Finite,Construction,Indirectly,Declared trace-zero seed of Section 8.2; not every Singer-family variant
+Paley [10],Quadratic-residue constructions,Finite,Construction,As upper bound,Used as the algebraic seed of Section 8.2
+Caicedo et al. [6],g-Golomb rulers,Finite,"Window bound, constructions and tables",Yes for the difference convention,Lemma 2.4 gives the optimized B_CS window expression; the capacity correction is the present addition
+Martos et al. [7],Near-optimal g-Golomb rulers,Finite,Algebraic constructions and modular-to-ordinary conversion,As upper bounds,Construction antecedent; not the generic simulated-annealing control
+Carter--Hunter--O-Bryant [1],g-thin Sidon diameter and window variance,Finite identity and asymptotic bounds,Variance-deficit identity and diameter bounds,Identity directly comparable,Theorem 4.1 is inherited; the new baseline is Q_bd. Unspecified asymptotic remainders are not assigned finite constants
+Gupta--O-Bryant [2],Optimal high-multiplicity diameters,Finite and asymptotic,Exact values and universal lemma,Yes,Source of the 462-pair comparison and of the dense families
+Gupta [3],Modular g-Golomb constructions,Finite,Construction,As upper bound,Algebraic baseline of Section 8.2
+Meyer--Papakonstantinou [4]; Sorge [5],Construction complexity,Finite,NP-hardness,No,Complexity context for Section 7
+Beck--Bogart--Pham [12],Counting function of Golomb rulers and acyclic orientations,Finite,Structural quasipolynomial,"No: counts rulers, not multiplicities",Framework for the realizability question; not used numerically
+Beck--Zaslavsky [13],Inside-out polytopes,Finite,Theory,No,"Tool behind [11,12]; cited as context"
+"Bogart--Cuellar [11], CDM 20(2), 481-496 (2025)","Counting functions of generalized (g,h)-Golomb rulers",Finite,Structural quasipolynomial,"No: quasipolynomial structure, no finite values",Published counting framework; not a proof of the specific hierarchy limitation in Theorem 8
+Johnston--Tait--Timmons [14],"$F_{k,g}(n)$, largest $B_k[g]$ set in [n]",Asymptotic,Upper and lower bounds,No direct numerical comparison: unordered-sum convention,Explains why exact finite F_g(L) must be computed here
+Green [15],$B_h[g]$ set sizes,Asymptotic,Bounds,No,Context for the g>1 regime
+Caicedo et al. [16],$B_h[g]$ modular sets,Finite,Construction,As upper bound,Modular construction context
+This paper,Finite positive differences and explicit-candidate selection,Finite,"Capacity certificate, realizability and complexity",Yes by definition,"Exact tent-capacity minimum, strictness and infinite gain; scalar/Fourier separation; polynomial-coordinate fixed-cap reduction"
+Xu [21],Popular positive differences,"Finite N, density and threshold D",Finite Fourier and inclusion-exclusion lower bounds,"Yes, with D=L",Direct antecedent; finite comparison in Section S17
+Croot et al. [18],"Sidon sets, distances and norm forms in structured sets",Finite and asymptotic,Combinatorial large-sieve bounds,"Not a direct fixed-(L,n) difference-cap bound",Adjacent structured-ambient-set context
+Bailleul--Riblet [19],Largest Sidon subset of an arbitrary finite subset of real space,Finite,Cardinality bounds,Only after matching ambient set and convention,"Adjacent cardinality problem, not evaluated as a finite cap bound"
+Bosio--Riblet--Tarr [20],B_2[g] subsets of the first squares,Finite and asymptotic,Sum-representation cardinality bounds,No automatic g>1 difference-cap identification,Adjacent squares/sum-representation model

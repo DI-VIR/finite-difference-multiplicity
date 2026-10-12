@@ -1,0 +1,6 @@
+﻿Region,Pairs,B_bd stronger,Equal,B_bd weaker,Mean difference
+n<20,101,43,49,9,0.337
+20<=n<40,106,81,25,0,3.349
+n>=40,255,255,0,0,27.902
+table has k=n,274,191,74,9,4.164
+monotone-excluded only,188,188,0,0,33.846

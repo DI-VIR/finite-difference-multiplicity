@@ -1,0 +1,7 @@
+﻿Claim,Evidence,Scope,Not claimed
+B_bd lower certificate,Theorem 1,$2\leq n\leq L$,Global ordering relative to prior LP or diameter bounds
+$\Theta(\sqrt L)$ gain,Theorem 4,"$L=4k^2,n=2k^2$; positive for $k\geq14$",Second-order asymptotics of $\Delta$
+B_real benchmark,Theorem 7; enumeration,Universal validity; full map $L\leq24$; six targeted MILP runs $28\leq L\leq80$,Scalable general algorithm
+Five residual obstructions,Theorem 8; Table S13b,Five stated parameter pairs,Infinite obstruction family or impossibility for all window methods
+Medium exact values,Main Table 2; checked witnesses,Lower and upper certificates meet on listed rows,Optimality from an incumbent or timeout alone
+Fixed-cap strong NP-completeness,Theorem 10; Lemmas 11--12,Explicit candidates; each fixed $g\geq2$,Hardness for succinct complete intervals

@@ -1,0 +1,6 @@
+﻿"(L,n)",Original odd mass,Original parity valid,Original tail violations d,New odd mass
+"(17,6)",7,No,None,8
+"(18,8)",13,No,None,12
+"(20,11)",28,Yes,"17,18",24
+"(20,12)",35,Yes,"16,17,18",27
+"(23,9)",18,Yes,22,18

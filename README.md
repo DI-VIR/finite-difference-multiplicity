@@ -58,11 +58,15 @@ and outside its license grants.
 
 ## Citation and persistent identifiers
 
-No public repository URL or DOI has been assigned to this local package.
-After publication, use the Zenodo citation export for **version 1.5.0** and
-verify that the creator order is Chao Mu followed by Qichun Wang. Cite the
-specific version DOI that contains the files used for the reported results,
-rather than only a moving GitHub branch or an all-versions DOI.
+This repository contains the reproducibility code, computational data, exact certificates, and verification records associated with the manuscript:
+
+Extremal Difference Multiplicity in Finite Intervals: Boundary Capacity Bounds, Binary Realizability and Complexity
+
+Authors: Chao Mu and Qichun Wang
+Release version: 1.5.0
+Release year: 2026
+GitHub repository: https://github.com/DI-VIR/finite-difference-multiplicity
+Zenodo version DOI: https://doi.org/10.5281/zenodo.23313897
 
 The intended record title is:
 

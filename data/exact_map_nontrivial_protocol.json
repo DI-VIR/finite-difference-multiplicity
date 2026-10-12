@@ -1,0 +1,39 @@
+{
+  "domain": "4<=L<=24,2<=n<L",
+  "enumeration": "complete, no sampling",
+  "nontrivial_pairs": 252,
+  "B_bd_tight": 245,
+  "B_real_tight": 247,
+  "including_trivial_pairs": 273,
+  "trivial_n_equals_L": 21,
+  "non_tight": [
+    [
+      11,
+      5
+    ],
+    [
+      17,
+      6
+    ],
+    [
+      18,
+      8
+    ],
+    [
+      20,
+      11
+    ],
+    [
+      20,
+      12
+    ],
+    [
+      23,
+      9
+    ],
+    [
+      24,
+      7
+    ]
+  ]
+}

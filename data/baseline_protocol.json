@@ -1,0 +1,49 @@
+{
+  "target": "Delta(L,n), positive differences, exactly n marks in positions 0,...,L-1",
+  "arithmetic": "Integer and Fraction arithmetic; ceilings precede maximization; all integer windows 2,...,L.",
+  "grid_source": "bound_landscape.json (462 prespecified pairs)",
+  "exact_source": "exact_map_nontrivial.json (252 nontrivial pairs)",
+  "principal_source": "verified_medium.json (nine principal pairs)",
+  "unique_pairs": 702,
+  "published_GO_cells": 565,
+  "sources": {
+    "B_ph": "ceil(n(n-1)/(2(L-1))); unordered-pair pigeonhole",
+    "B_CS": "max_u ceil(((nu)^2/(L+u-1)-nu)/(u(u-1))); optimized classical window bound",
+    "B_int": "max_u ceil((Nq^2+(2q+1)eta-nu)/(u(u-1))); N=L+u-1, nu=Nq+eta",
+    "B_bd": "max_u ceil((Q_bd(L,n,u)-nu)/(u(u-1))); main Theorem 1",
+    "B_Xu": {
+      "reference": 21,
+      "url": "https://arxiv.org/html/1706.05969v5",
+      "version": "v5",
+      "formulas": [
+        "max_D ceil(n^2/(L+D)-(n+1)/D)",
+        "max_D ceil(2(Dn-L)/(D(D-1))-2/D)"
+      ],
+      "thresholds": "2<=D<=L; maximum also includes zero",
+      "theorem_numbers": [
+        "Theorem 3.1",
+        "Proposition 2.2"
+      ]
+    },
+    "B_prior": {
+      "reference": 2,
+      "url": "https://arxiv.org/html/2605.14229v1",
+      "version": "v1",
+      "lemma": "max(0,2n-L-1), Lemma 6",
+      "table": "max({0} union {g+1: stored G(g,k)>L-1, k<=n}), Table 1",
+      "combination": "max(GO lemma, GO finite-table inversion)",
+      "no_exclusion": "A zero table value is lack of a certificate, not Delta=0."
+    },
+    "B_base": "max(B_ph,B_CS,B_int,B_Xu,B_prior); strongest of these declared baselines only",
+    "B_full": "max(B_base,B_bd); full combined lower certificate",
+    "B_comb": "Historical max(B_bd,B_GO_table) is preserved; no experiment stopping target is changed."
+  },
+  "restrictions": [
+    "No claimed domination of all results of a cited paper or of unevaluated LP/SDP models.",
+    "Known exact diameter exclusions are prior information, not newly discovered values.",
+    "GO direct-cardinality coverage and monotone-transfer-only strata remain distinct.",
+    "A verified upper witness is not an optimum unless it meets a valid lower bound.",
+    "No finite constant is assigned to an unspecified asymptotic remainder."
+  ],
+  "primary_source_check_date": "2026-10-10"
+}

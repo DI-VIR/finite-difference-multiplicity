@@ -1,0 +1,9 @@
+{
+  "parameter_pairs": 462,
+  "finite_table_source": "arXiv:2605.14229v1 Table1",
+  "transformation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1",
+  "asymptotic_2025": "not numerically evaluated without a finite error constant",
+  "table_weaker_than_boundary": 379,
+  "table_equal_boundary": 74,
+  "table_stronger_than_boundary": 9
+}

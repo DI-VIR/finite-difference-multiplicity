@@ -1,0 +1,239 @@
+{
+  "status": "PASS",
+  "instances": 12,
+  "records": [
+    {
+      "L": 4,
+      "n": 2,
+      "u": 2,
+      "Q_real": 4,
+      "witness": [
+        1,
+        3
+      ],
+      "solver_status": 0,
+      "seconds": 0.003268,
+      "mip_gap": 0.0,
+      "mip_nodes": 1,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 4,
+      "enumerated_sets": 6
+    },
+    {
+      "L": 4,
+      "n": 2,
+      "u": 4,
+      "Q_real": 10,
+      "witness": [
+        0,
+        3
+      ],
+      "solver_status": 0,
+      "seconds": 0.001832,
+      "mip_gap": 0.0,
+      "mip_nodes": 1,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 10,
+      "enumerated_sets": 6
+    },
+    {
+      "L": 6,
+      "n": 3,
+      "u": 2,
+      "Q_real": 6,
+      "witness": [
+        0,
+        2,
+        5
+      ],
+      "solver_status": 0,
+      "seconds": 0.001036,
+      "mip_gap": 0.0,
+      "mip_nodes": 1,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 6,
+      "enumerated_sets": 20
+    },
+    {
+      "L": 6,
+      "n": 3,
+      "u": 6,
+      "Q_real": 34,
+      "witness": [
+        0,
+        2,
+        5
+      ],
+      "solver_status": 0,
+      "seconds": 0.006116,
+      "mip_gap": 0.0,
+      "mip_nodes": 1,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 34,
+      "enumerated_sets": 20
+    },
+    {
+      "L": 8,
+      "n": 4,
+      "u": 3,
+      "Q_real": 16,
+      "witness": [
+        0,
+        3,
+        5,
+        7
+      ],
+      "solver_status": 0,
+      "seconds": 0.003498,
+      "mip_gap": 0.0,
+      "mip_nodes": 1,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 16,
+      "enumerated_sets": 70
+    },
+    {
+      "L": 8,
+      "n": 4,
+      "u": 8,
+      "Q_real": 76,
+      "witness": [
+        0,
+        1,
+        6,
+        7
+      ],
+      "solver_status": 0,
+      "seconds": 0.012001,
+      "mip_gap": 0.0,
+      "mip_nodes": 3,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 76,
+      "enumerated_sets": 70
+    },
+    {
+      "L": 10,
+      "n": 4,
+      "u": 5,
+      "Q_real": 32,
+      "witness": [
+        0,
+        2,
+        7,
+        9
+      ],
+      "solver_status": 0,
+      "seconds": 0.011627,
+      "mip_gap": 0.0,
+      "mip_nodes": 1,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 32,
+      "enumerated_sets": 210
+    },
+    {
+      "L": 10,
+      "n": 6,
+      "u": 10,
+      "Q_real": 218,
+      "witness": [
+        0,
+        1,
+        2,
+        7,
+        8,
+        9
+      ],
+      "solver_status": 0,
+      "seconds": 0.024772,
+      "mip_gap": 0.0,
+      "mip_nodes": 1,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 218,
+      "enumerated_sets": 210
+    },
+    {
+      "L": 11,
+      "n": 5,
+      "u": 6,
+      "Q_real": 62,
+      "witness": [
+        0,
+        2,
+        5,
+        9,
+        10
+      ],
+      "solver_status": 0,
+      "seconds": 0.030448,
+      "mip_gap": 0.0,
+      "mip_nodes": 3,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 62,
+      "enumerated_sets": 462
+    },
+    {
+      "L": 12,
+      "n": 5,
+      "u": 2,
+      "Q_real": 10,
+      "witness": [
+        1,
+        4,
+        7,
+        9,
+        11
+      ],
+      "solver_status": 0,
+      "seconds": 0.001023,
+      "mip_gap": 0.0,
+      "mip_nodes": 1,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 10,
+      "enumerated_sets": 792
+    },
+    {
+      "L": 12,
+      "n": 6,
+      "u": 7,
+      "Q_real": 106,
+      "witness": [
+        0,
+        1,
+        4,
+        8,
+        10,
+        11
+      ],
+      "solver_status": 0,
+      "seconds": 0.034831,
+      "mip_gap": 0.0,
+      "mip_nodes": 11,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 106,
+      "enumerated_sets": 924
+    },
+    {
+      "L": 12,
+      "n": 6,
+      "u": 12,
+      "Q_real": 254,
+      "witness": [
+        0,
+        1,
+        2,
+        9,
+        10,
+        11
+      ],
+      "solver_status": 0,
+      "seconds": 0.069525,
+      "mip_gap": 0.0,
+      "mip_nodes": 11,
+      "time_limit": 60.0,
+      "independent_enumeration_Q": 254,
+      "enumerated_sets": 924
+    }
+  ],
+  "comparison": "Independent unordered-pair enumeration",
+  "large_instance_runs": false,
+  "scalability_claim": false
+}

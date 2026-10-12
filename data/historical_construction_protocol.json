@@ -1,0 +1,43 @@
+{
+  "source": "tools/comprehensive_tap_experiments.py",
+  "source_sha256": "2e8fc18f73557dca95e3094918d7a9d1c4e4aabf526218f74ca0e2148df195a4",
+  "original_run_protocol": {
+    "parameters": [
+      [
+        32,
+        15
+      ],
+      [
+        64,
+        29
+      ],
+      [
+        80,
+        37
+      ],
+      [
+        160,
+        71
+      ],
+      [
+        256,
+        118
+      ],
+      [
+        320,
+        142
+      ]
+    ],
+    "seeds": 30,
+    "evals_per_optimizer": 3000,
+    "methods": [
+      "random",
+      "som",
+      "lb_som",
+      "profile_lb_som"
+    ],
+    "random_seed_start": 20260920
+  },
+  "LB_SOM_objective": "1000 sum_d max(r_d-B_int,0)^2 + 10 max_d r_d",
+  "note": "Only geometry witness fields are extracted; no cryptographic endpoints are reproduced or used as evidence in this paper."
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "runs": 1350,
+  "cells": 45,
+  "seeds": 30,
+  "budget": 3000,
+  "seconds": 15.353,
+  "source": "https://arxiv.org/html/2607.07931v1",
+  "scope": "Declared prime-field variants only; not an exhaustive or optimal parameter search over all construction families."
+}

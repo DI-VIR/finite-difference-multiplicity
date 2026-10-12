@@ -1,0 +1,6 @@
+{
+  "source": "data/literature_grid_comparison.csv and data/published_diameters.csv",
+  "definition": "B_comb = max(B_bd, B_prior); sign = sign(B_bd - B_prior)",
+  "enumeration": "anchored subsets, min tap fixed at 0, early stop at the lower bound",
+  "note": "only the 462 prespecified grid pairs are counted; no asymptotic theorem is evaluated"
+}

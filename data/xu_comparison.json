@@ -1,0 +1,7022 @@
+[
+  {
+    "L": 4,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 4,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 5,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 5,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 5,
+    "n": 4,
+    "B_Xu": 2,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 6,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 6,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 6,
+    "n": 4,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 6,
+    "n": 5,
+    "B_Xu": 3,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 7,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 7,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 7,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 7,
+    "n": 5,
+    "B_Xu": 2,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 7,
+    "n": 6,
+    "B_Xu": 4,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 8,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 8,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 8,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 8,
+    "n": 5,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 8,
+    "n": 6,
+    "B_Xu": 3,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 8,
+    "n": 7,
+    "B_Xu": 5,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 9,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 9,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 9,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 9,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 9,
+    "n": 5,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 9,
+    "n": 6,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 9,
+    "n": 7,
+    "B_Xu": 4,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 9,
+    "n": 8,
+    "B_Xu": 6,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 10,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 10,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 10,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 10,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 10,
+    "n": 5,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 10,
+    "n": 6,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 10,
+    "n": 7,
+    "B_Xu": 3,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 4
+  },
+  {
+    "L": 10,
+    "n": 8,
+    "B_Xu": 5,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 10,
+    "n": 9,
+    "B_Xu": 7,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 11,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 11,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 11,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 11,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 11,
+    "n": 6,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 11,
+    "n": 7,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 11,
+    "n": 8,
+    "B_Xu": 4,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 11,
+    "n": 9,
+    "B_Xu": 6,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 11,
+    "n": 10,
+    "B_Xu": 8,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 12,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 12,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 12,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 12,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 12,
+    "n": 6,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 12,
+    "n": 7,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 12,
+    "n": 8,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 12,
+    "n": 9,
+    "B_Xu": 5,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 12,
+    "n": 10,
+    "B_Xu": 7,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 12,
+    "n": 11,
+    "B_Xu": 9,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 13,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 13,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 13,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 13,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 13,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 13,
+    "n": 6,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 13,
+    "n": 7,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 3
+  },
+  {
+    "L": 13,
+    "n": 8,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 4
+  },
+  {
+    "L": 13,
+    "n": 9,
+    "B_Xu": 4,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 5
+  },
+  {
+    "L": 13,
+    "n": 10,
+    "B_Xu": 6,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 13,
+    "n": 11,
+    "B_Xu": 8,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 13,
+    "n": 12,
+    "B_Xu": 10,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 14,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 14,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 14,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 14,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 14,
+    "n": 6,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 14,
+    "n": 7,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 14,
+    "n": 8,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 14,
+    "n": 9,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 14,
+    "n": 10,
+    "B_Xu": 5,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 6
+  },
+  {
+    "L": 14,
+    "n": 11,
+    "B_Xu": 7,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 14,
+    "n": 12,
+    "B_Xu": 9,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 14,
+    "n": 13,
+    "B_Xu": 11,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 10,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 15,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 15,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 15,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 15,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 15,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 15,
+    "n": 6,
+    "B_Xu": 2,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 15,
+    "n": 7,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 15,
+    "n": 8,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 15,
+    "n": 9,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 15,
+    "n": 10,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 15,
+    "n": 11,
+    "B_Xu": 6,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 15,
+    "n": 12,
+    "B_Xu": 8,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 15,
+    "n": 13,
+    "B_Xu": 10,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 15,
+    "n": 14,
+    "B_Xu": 12,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 11,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 16,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 16,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 16,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 16,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 16,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 16,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 2
+  },
+  {
+    "L": 16,
+    "n": 7,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 16,
+    "n": 8,
+    "B_Xu": 3,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 16,
+    "n": 9,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 4
+  },
+  {
+    "L": 16,
+    "n": 10,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 5
+  },
+  {
+    "L": 16,
+    "n": 11,
+    "B_Xu": 5,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 16,
+    "n": 12,
+    "B_Xu": 7,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 16,
+    "n": 13,
+    "B_Xu": 9,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 16,
+    "n": 14,
+    "B_Xu": 11,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 10,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 16,
+    "n": 15,
+    "B_Xu": 13,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 12,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 17,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 17,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 17,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 9,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 17,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 17,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 17,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 17,
+    "n": 7,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 17,
+    "n": 8,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 17,
+    "n": 9,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 17,
+    "n": 10,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 17,
+    "n": 11,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 17,
+    "n": 12,
+    "B_Xu": 6,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 7
+  },
+  {
+    "L": 17,
+    "n": 13,
+    "B_Xu": 8,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 17,
+    "n": 14,
+    "B_Xu": 10,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 17,
+    "n": 15,
+    "B_Xu": 12,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 11,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 17,
+    "n": 16,
+    "B_Xu": 14,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 13,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 18,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 18,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 18,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 9,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 18,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 18,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 18,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 18,
+    "n": 7,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 18,
+    "n": 8,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 18,
+    "n": 9,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 18,
+    "n": 10,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 18,
+    "n": 11,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 18,
+    "n": 12,
+    "B_Xu": 6,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 18,
+    "n": 13,
+    "B_Xu": 7,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 8
+  },
+  {
+    "L": 18,
+    "n": 14,
+    "B_Xu": 9,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 18,
+    "n": 15,
+    "B_Xu": 11,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 10,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 18,
+    "n": 16,
+    "B_Xu": 13,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 12,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 18,
+    "n": 17,
+    "B_Xu": 15,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 14,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 19,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 19,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 19,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 10,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 19,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 19,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 19,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 19,
+    "n": 7,
+    "B_Xu": 2,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 19,
+    "n": 8,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 19,
+    "n": 9,
+    "B_Xu": 3,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 19,
+    "n": 10,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 19,
+    "n": 11,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 19,
+    "n": 12,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 19,
+    "n": 13,
+    "B_Xu": 6,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 19,
+    "n": 14,
+    "B_Xu": 8,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 19,
+    "n": 15,
+    "B_Xu": 10,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 19,
+    "n": 16,
+    "B_Xu": 12,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 11,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 19,
+    "n": 17,
+    "B_Xu": 14,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 13,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 19,
+    "n": 18,
+    "B_Xu": 16,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 15,
+    "B_int": 16,
+    "B_bd": 16
+  },
+  {
+    "L": 20,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 20,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 20,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 10,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 20,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 20,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 20,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 20,
+    "n": 7,
+    "B_Xu": 2,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 20,
+    "n": 8,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 20,
+    "n": 9,
+    "B_Xu": 3,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 20,
+    "n": 10,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 4
+  },
+  {
+    "L": 20,
+    "n": 11,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 20,
+    "n": 12,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 20,
+    "n": 13,
+    "B_Xu": 6,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 7
+  },
+  {
+    "L": 20,
+    "n": 14,
+    "B_Xu": 7,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 20,
+    "n": 15,
+    "B_Xu": 9,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 20,
+    "n": 16,
+    "B_Xu": 11,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 10,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 20,
+    "n": 17,
+    "B_Xu": 13,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 12,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 20,
+    "n": 18,
+    "B_Xu": 15,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 14,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 20,
+    "n": 19,
+    "B_Xu": 17,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 16,
+    "B_int": 17,
+    "B_bd": 17
+  },
+  {
+    "L": 21,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 21,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 21,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 21,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 21,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 21,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 21,
+    "n": 7,
+    "B_Xu": 2,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 21,
+    "n": 8,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 21,
+    "n": 9,
+    "B_Xu": 2,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 21,
+    "n": 10,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 21,
+    "n": 11,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 21,
+    "n": 12,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 21,
+    "n": 13,
+    "B_Xu": 6,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 21,
+    "n": 14,
+    "B_Xu": 7,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 21,
+    "n": 15,
+    "B_Xu": 8,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 9
+  },
+  {
+    "L": 21,
+    "n": 16,
+    "B_Xu": 10,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 21,
+    "n": 17,
+    "B_Xu": 12,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 11,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 21,
+    "n": 18,
+    "B_Xu": 14,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 13,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 21,
+    "n": 19,
+    "B_Xu": 16,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 15,
+    "B_int": 16,
+    "B_bd": 16
+  },
+  {
+    "L": 21,
+    "n": 20,
+    "B_Xu": 18,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 17,
+    "B_int": 18,
+    "B_bd": 18
+  },
+  {
+    "L": 22,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 22,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 22,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 22,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 22,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 22,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 22,
+    "n": 7,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 22,
+    "n": 8,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 22,
+    "n": 9,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 22,
+    "n": 10,
+    "B_Xu": 3,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 22,
+    "n": 11,
+    "B_Xu": 4,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 22,
+    "n": 12,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 22,
+    "n": 13,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 22,
+    "n": 14,
+    "B_Xu": 6,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 22,
+    "n": 15,
+    "B_Xu": 7,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 22,
+    "n": 16,
+    "B_Xu": 9,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 10
+  },
+  {
+    "L": 22,
+    "n": 17,
+    "B_Xu": 11,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 10,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 22,
+    "n": 18,
+    "B_Xu": 13,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 12,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 22,
+    "n": 19,
+    "B_Xu": 15,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 14,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 22,
+    "n": 20,
+    "B_Xu": 17,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 15,
+    "B_int": 17,
+    "B_bd": 17
+  },
+  {
+    "L": 22,
+    "n": 21,
+    "B_Xu": 19,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 18,
+    "B_int": 19,
+    "B_bd": 19
+  },
+  {
+    "L": 23,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 23,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 23,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 23,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 23,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 23,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 23,
+    "n": 7,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 2
+  },
+  {
+    "L": 23,
+    "n": 8,
+    "B_Xu": 2,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 23,
+    "n": 9,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 23,
+    "n": 10,
+    "B_Xu": 3,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 23,
+    "n": 11,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 23,
+    "n": 12,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 5
+  },
+  {
+    "L": 23,
+    "n": 13,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 6
+  },
+  {
+    "L": 23,
+    "n": 14,
+    "B_Xu": 6,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 7
+  },
+  {
+    "L": 23,
+    "n": 15,
+    "B_Xu": 7,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 8
+  },
+  {
+    "L": 23,
+    "n": 16,
+    "B_Xu": 8,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 23,
+    "n": 17,
+    "B_Xu": 10,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 11
+  },
+  {
+    "L": 23,
+    "n": 18,
+    "B_Xu": 12,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 11,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 23,
+    "n": 19,
+    "B_Xu": 14,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 13,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 23,
+    "n": 20,
+    "B_Xu": 16,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 14,
+    "B_int": 16,
+    "B_bd": 16
+  },
+  {
+    "L": 23,
+    "n": 21,
+    "B_Xu": 18,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 16,
+    "B_int": 18,
+    "B_bd": 18
+  },
+  {
+    "L": 23,
+    "n": 22,
+    "B_Xu": 20,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 19,
+    "B_int": 20,
+    "B_bd": 20
+  },
+  {
+    "L": 24,
+    "n": 2,
+    "B_Xu": 1,
+    "D_Xu": 24,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 24,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 24,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 24,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 24,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 24,
+    "n": 7,
+    "B_Xu": 1,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 24,
+    "n": 8,
+    "B_Xu": 2,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 24,
+    "n": 9,
+    "B_Xu": 2,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 24,
+    "n": 10,
+    "B_Xu": 3,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "B_Xu": 3,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 24,
+    "n": 12,
+    "B_Xu": 4,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 24,
+    "n": 13,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 24,
+    "n": 14,
+    "B_Xu": 6,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 24,
+    "n": 15,
+    "B_Xu": 7,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 24,
+    "n": 16,
+    "B_Xu": 8,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 9
+  },
+  {
+    "L": 24,
+    "n": 17,
+    "B_Xu": 9,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 24,
+    "n": 18,
+    "B_Xu": 11,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 10,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 24,
+    "n": 19,
+    "B_Xu": 13,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 12,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 24,
+    "n": 20,
+    "B_Xu": 15,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 14,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 24,
+    "n": 21,
+    "B_Xu": 17,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 15,
+    "B_int": 17,
+    "B_bd": 17
+  },
+  {
+    "L": 24,
+    "n": 22,
+    "B_Xu": 19,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 17,
+    "B_int": 19,
+    "B_bd": 19
+  },
+  {
+    "L": 24,
+    "n": 23,
+    "B_Xu": 21,
+    "D_Xu": 2,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 20,
+    "B_int": 21,
+    "B_bd": 21
+  },
+  {
+    "L": 28,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 28,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 28,
+    "n": 8,
+    "B_Xu": 2,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 28,
+    "n": 11,
+    "B_Xu": 3,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 28,
+    "n": 13,
+    "B_Xu": 4,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 28,
+    "n": 14,
+    "B_Xu": 5,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 32,
+    "n": 3,
+    "B_Xu": 1,
+    "D_Xu": 16,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 32,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 32,
+    "n": 10,
+    "B_Xu": 2,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 32,
+    "n": 13,
+    "B_Xu": 3,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 32,
+    "n": 14,
+    "B_Xu": 4,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "B_Xu": 5,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 32,
+    "n": 16,
+    "B_Xu": 5,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 36,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 36,
+    "n": 7,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 36,
+    "n": 11,
+    "B_Xu": 2,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 36,
+    "n": 14,
+    "B_Xu": 3,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 36,
+    "n": 16,
+    "B_Xu": 5,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 36,
+    "n": 18,
+    "B_Xu": 6,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 40,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 40,
+    "n": 8,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 40,
+    "n": 12,
+    "B_Xu": 2,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 40,
+    "n": 16,
+    "B_Xu": 4,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 40,
+    "n": 18,
+    "B_Xu": 5,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "B_Xu": 6,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 40,
+    "n": 20,
+    "B_Xu": 7,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 44,
+    "n": 4,
+    "B_Xu": 1,
+    "D_Xu": 15,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 44,
+    "n": 9,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 44,
+    "n": 13,
+    "B_Xu": 2,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 44,
+    "n": 18,
+    "B_Xu": 5,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 6
+  },
+  {
+    "L": 44,
+    "n": 20,
+    "B_Xu": 6,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 44,
+    "n": 22,
+    "B_Xu": 7,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 9
+  },
+  {
+    "L": 48,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 48,
+    "n": 10,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 48,
+    "n": 14,
+    "B_Xu": 3,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 48,
+    "n": 19,
+    "B_Xu": 5,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "B_Xu": 7,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 7,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 48,
+    "n": 24,
+    "B_Xu": 8,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 10
+  },
+  {
+    "L": 52,
+    "n": 5,
+    "B_Xu": 1,
+    "D_Xu": 13,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 52,
+    "n": 10,
+    "B_Xu": 1,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 2
+  },
+  {
+    "L": 52,
+    "n": 16,
+    "B_Xu": 3,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 52,
+    "n": 21,
+    "B_Xu": 6,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 7
+  },
+  {
+    "L": 52,
+    "n": 23,
+    "B_Xu": 7,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 52,
+    "n": 26,
+    "B_Xu": 9,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 56,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 56,
+    "n": 11,
+    "B_Xu": 2,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 56,
+    "n": 17,
+    "B_Xu": 3,
+    "D_Xu": 5,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 56,
+    "n": 22,
+    "B_Xu": 6,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 7
+  },
+  {
+    "L": 56,
+    "n": 25,
+    "B_Xu": 8,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 56,
+    "n": 28,
+    "B_Xu": 10,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 11,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 60,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 60,
+    "n": 12,
+    "B_Xu": 2,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 60,
+    "n": 18,
+    "B_Xu": 4,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 60,
+    "n": 24,
+    "B_Xu": 7,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 8
+  },
+  {
+    "L": 60,
+    "n": 27,
+    "B_Xu": 8,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 10
+  },
+  {
+    "L": 60,
+    "n": 30,
+    "B_Xu": 10,
+    "D_Xu": 3,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 12,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 64,
+    "n": 6,
+    "B_Xu": 1,
+    "D_Xu": 13,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 64,
+    "n": 13,
+    "B_Xu": 2,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 64,
+    "n": 19,
+    "B_Xu": 4,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 64,
+    "n": 26,
+    "B_Xu": 7,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "B_Xu": 9,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 11
+  },
+  {
+    "L": 64,
+    "n": 32,
+    "B_Xu": 11,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 13,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 68,
+    "n": 7,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 68,
+    "n": 14,
+    "B_Xu": 2,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 68,
+    "n": 20,
+    "B_Xu": 4,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 68,
+    "n": 27,
+    "B_Xu": 7,
+    "D_Xu": 4,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 68,
+    "n": 31,
+    "B_Xu": 10,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 11,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 68,
+    "n": 34,
+    "B_Xu": 12,
+    "D_Xu": 9,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 13,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 72,
+    "n": 7,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 72,
+    "n": 14,
+    "B_Xu": 2,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 72,
+    "n": 22,
+    "B_Xu": 5,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 72,
+    "n": 29,
+    "B_Xu": 8,
+    "D_Xu": 9,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 72,
+    "n": 32,
+    "B_Xu": 10,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 11,
+    "B_int": 11,
+    "B_bd": 12
+  },
+  {
+    "L": 72,
+    "n": 36,
+    "B_Xu": 13,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 14,
+    "B_int": 14,
+    "B_bd": 15
+  },
+  {
+    "L": 76,
+    "n": 8,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 76,
+    "n": 15,
+    "B_Xu": 2,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 76,
+    "n": 23,
+    "B_Xu": 5,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 76,
+    "n": 30,
+    "B_Xu": 8,
+    "D_Xu": 9,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 76,
+    "n": 34,
+    "B_Xu": 11,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 12,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 76,
+    "n": 38,
+    "B_Xu": 14,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 15,
+    "B_int": 15,
+    "B_bd": 16
+  },
+  {
+    "L": 80,
+    "n": 8,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 80,
+    "n": 16,
+    "B_Xu": 2,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 80,
+    "n": 24,
+    "B_Xu": 5,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 6
+  },
+  {
+    "L": 80,
+    "n": 32,
+    "B_Xu": 9,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 80,
+    "n": 36,
+    "B_Xu": 12,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 13,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "B_Xu": 12,
+    "D_Xu": 9,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 14,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 80,
+    "n": 40,
+    "B_Xu": 15,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 16,
+    "B_int": 16,
+    "B_bd": 17
+  },
+  {
+    "L": 84,
+    "n": 8,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 84,
+    "n": 17,
+    "B_Xu": 2,
+    "D_Xu": 7,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 84,
+    "n": 25,
+    "B_Xu": 5,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 84,
+    "n": 34,
+    "B_Xu": 10,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 11,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 84,
+    "n": 38,
+    "B_Xu": 13,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 14,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 84,
+    "n": 42,
+    "B_Xu": 15,
+    "D_Xu": 9,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 17,
+    "B_int": 17,
+    "B_bd": 18
+  },
+  {
+    "L": 88,
+    "n": 9,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 88,
+    "n": 18,
+    "B_Xu": 3,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 88,
+    "n": 26,
+    "B_Xu": 5,
+    "D_Xu": 6,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 88,
+    "n": 35,
+    "B_Xu": 10,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 11,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 88,
+    "n": 40,
+    "B_Xu": 13,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 14,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 88,
+    "n": 44,
+    "B_Xu": 16,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 19
+  },
+  {
+    "L": 92,
+    "n": 9,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 92,
+    "n": 18,
+    "B_Xu": 3,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 92,
+    "n": 28,
+    "B_Xu": 6,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 6,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 92,
+    "n": 37,
+    "B_Xu": 11,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 12,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 92,
+    "n": 41,
+    "B_Xu": 13,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 15,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 92,
+    "n": 46,
+    "B_Xu": 17,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 19,
+    "B_int": 19,
+    "B_bd": 20
+  },
+  {
+    "L": 96,
+    "n": 10,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 96,
+    "n": 19,
+    "B_Xu": 3,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 96,
+    "n": 29,
+    "B_Xu": 6,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 96,
+    "n": 38,
+    "B_Xu": 11,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 12,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 96,
+    "n": 43,
+    "B_Xu": 14,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 15,
+    "B_int": 16,
+    "B_bd": 16
+  },
+  {
+    "L": 96,
+    "n": 48,
+    "B_Xu": 18,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 20,
+    "B_int": 20,
+    "B_bd": 20
+  },
+  {
+    "L": 100,
+    "n": 10,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 100,
+    "n": 20,
+    "B_Xu": 3,
+    "D_Xu": 10,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 100,
+    "n": 30,
+    "B_Xu": 6,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 100,
+    "n": 40,
+    "B_Xu": 12,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 13,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 100,
+    "n": 45,
+    "B_Xu": 15,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 16,
+    "B_int": 16,
+    "B_bd": 17
+  },
+  {
+    "L": 100,
+    "n": 50,
+    "B_Xu": 19,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 21,
+    "B_int": 21,
+    "B_bd": 21
+  },
+  {
+    "L": 104,
+    "n": 10,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 104,
+    "n": 21,
+    "B_Xu": 3,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 104,
+    "n": 31,
+    "B_Xu": 7,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 104,
+    "n": 42,
+    "B_Xu": 13,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 14,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 104,
+    "n": 47,
+    "B_Xu": 16,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 17,
+    "B_int": 17,
+    "B_bd": 18
+  },
+  {
+    "L": 104,
+    "n": 52,
+    "B_Xu": 20,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 21,
+    "B_int": 22,
+    "B_bd": 22
+  },
+  {
+    "L": 108,
+    "n": 11,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 108,
+    "n": 22,
+    "B_Xu": 3,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 4
+  },
+  {
+    "L": 108,
+    "n": 32,
+    "B_Xu": 7,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 8
+  },
+  {
+    "L": 108,
+    "n": 43,
+    "B_Xu": 13,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 14,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 108,
+    "n": 49,
+    "B_Xu": 17,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 19
+  },
+  {
+    "L": 108,
+    "n": 54,
+    "B_Xu": 21,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 22,
+    "B_int": 23,
+    "B_bd": 23
+  },
+  {
+    "L": 112,
+    "n": 11,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 112,
+    "n": 22,
+    "B_Xu": 3,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 112,
+    "n": 34,
+    "B_Xu": 8,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 112,
+    "n": 45,
+    "B_Xu": 14,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 15,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 112,
+    "n": 50,
+    "B_Xu": 17,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 19
+  },
+  {
+    "L": 112,
+    "n": 56,
+    "B_Xu": 21,
+    "D_Xu": 10,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 23,
+    "B_int": 23,
+    "B_bd": 24
+  },
+  {
+    "L": 116,
+    "n": 12,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 116,
+    "n": 23,
+    "B_Xu": 3,
+    "D_Xu": 8,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 116,
+    "n": 35,
+    "B_Xu": 8,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 116,
+    "n": 46,
+    "B_Xu": 14,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 15,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 116,
+    "n": 52,
+    "B_Xu": 18,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 19,
+    "B_int": 19,
+    "B_bd": 20
+  },
+  {
+    "L": 116,
+    "n": 58,
+    "B_Xu": 22,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 24,
+    "B_int": 24,
+    "B_bd": 25
+  },
+  {
+    "L": 120,
+    "n": 12,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 120,
+    "n": 24,
+    "B_Xu": 4,
+    "D_Xu": 29,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 120,
+    "n": 36,
+    "B_Xu": 8,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 9
+  },
+  {
+    "L": 120,
+    "n": 48,
+    "B_Xu": 15,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 16,
+    "B_int": 16,
+    "B_bd": 16
+  },
+  {
+    "L": 120,
+    "n": 54,
+    "B_Xu": 19,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 20,
+    "B_int": 20,
+    "B_bd": 21
+  },
+  {
+    "L": 120,
+    "n": 60,
+    "B_Xu": 23,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 25,
+    "B_int": 25,
+    "B_bd": 26
+  },
+  {
+    "L": 124,
+    "n": 12,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 124,
+    "n": 25,
+    "B_Xu": 4,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 124,
+    "n": 37,
+    "B_Xu": 8,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 124,
+    "n": 50,
+    "B_Xu": 15,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 16,
+    "B_int": 16,
+    "B_bd": 17
+  },
+  {
+    "L": 124,
+    "n": 56,
+    "B_Xu": 19,
+    "D_Xu": 11,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 21,
+    "B_int": 21,
+    "B_bd": 22
+  },
+  {
+    "L": 124,
+    "n": 62,
+    "B_Xu": 24,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 26,
+    "B_int": 26,
+    "B_bd": 27
+  },
+  {
+    "L": 128,
+    "n": 13,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 128,
+    "n": 26,
+    "B_Xu": 4,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 128,
+    "n": 38,
+    "B_Xu": 8,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 128,
+    "n": 51,
+    "B_Xu": 15,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 17,
+    "B_int": 17,
+    "B_bd": 17
+  },
+  {
+    "L": 128,
+    "n": 58,
+    "B_Xu": 20,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 22,
+    "B_int": 22,
+    "B_bd": 22
+  },
+  {
+    "L": 128,
+    "n": 64,
+    "B_Xu": 25,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 27,
+    "B_int": 27,
+    "B_bd": 28
+  },
+  {
+    "L": 132,
+    "n": 13,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 132,
+    "n": 26,
+    "B_Xu": 4,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 132,
+    "n": 40,
+    "B_Xu": 9,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 132,
+    "n": 53,
+    "B_Xu": 16,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 17,
+    "B_int": 17,
+    "B_bd": 18
+  },
+  {
+    "L": 132,
+    "n": 59,
+    "B_Xu": 20,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 22,
+    "B_int": 22,
+    "B_bd": 23
+  },
+  {
+    "L": 132,
+    "n": 66,
+    "B_Xu": 26,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 28,
+    "B_int": 28,
+    "B_bd": 29
+  },
+  {
+    "L": 136,
+    "n": 14,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 136,
+    "n": 27,
+    "B_Xu": 4,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 136,
+    "n": 41,
+    "B_Xu": 9,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 136,
+    "n": 54,
+    "B_Xu": 16,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 18
+  },
+  {
+    "L": 136,
+    "n": 61,
+    "B_Xu": 21,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 23,
+    "B_int": 23,
+    "B_bd": 23
+  },
+  {
+    "L": 136,
+    "n": 68,
+    "B_Xu": 27,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 29,
+    "B_int": 29,
+    "B_bd": 30
+  },
+  {
+    "L": 140,
+    "n": 14,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 140,
+    "n": 28,
+    "B_Xu": 4,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 4,
+    "B_int": 4,
+    "B_bd": 4
+  },
+  {
+    "L": 140,
+    "n": 42,
+    "B_Xu": 9,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 140,
+    "n": 56,
+    "B_Xu": 17,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 19
+  },
+  {
+    "L": 140,
+    "n": 63,
+    "B_Xu": 22,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 24,
+    "B_int": 24,
+    "B_bd": 24
+  },
+  {
+    "L": 140,
+    "n": 70,
+    "B_Xu": 28,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 30,
+    "B_int": 30,
+    "B_bd": 31
+  },
+  {
+    "L": 144,
+    "n": 14,
+    "B_Xu": 1,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 144,
+    "n": 29,
+    "B_Xu": 4,
+    "D_Xu": 9,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 144,
+    "n": 43,
+    "B_Xu": 10,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 144,
+    "n": 58,
+    "B_Xu": 18,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 19,
+    "B_int": 19,
+    "B_bd": 20
+  },
+  {
+    "L": 144,
+    "n": 65,
+    "B_Xu": 23,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 25,
+    "B_int": 25,
+    "B_bd": 25
+  },
+  {
+    "L": 144,
+    "n": 72,
+    "B_Xu": 28,
+    "D_Xu": 12,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 31,
+    "B_int": 31,
+    "B_bd": 32
+  },
+  {
+    "L": 148,
+    "n": 15,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 148,
+    "n": 30,
+    "B_Xu": 5,
+    "D_Xu": 28,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 148,
+    "n": 44,
+    "B_Xu": 10,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 11
+  },
+  {
+    "L": 148,
+    "n": 59,
+    "B_Xu": 18,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 19,
+    "B_int": 19,
+    "B_bd": 20
+  },
+  {
+    "L": 148,
+    "n": 67,
+    "B_Xu": 24,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 25,
+    "B_int": 26,
+    "B_bd": 26
+  },
+  {
+    "L": 148,
+    "n": 74,
+    "B_Xu": 29,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 31,
+    "B_int": 32,
+    "B_bd": 32
+  },
+  {
+    "L": 152,
+    "n": 15,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 152,
+    "n": 30,
+    "B_Xu": 4,
+    "D_Xu": 9,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 152,
+    "n": 46,
+    "B_Xu": 11,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 11,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 152,
+    "n": 61,
+    "B_Xu": 19,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 20,
+    "B_int": 20,
+    "B_bd": 21
+  },
+  {
+    "L": 152,
+    "n": 68,
+    "B_Xu": 24,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 26,
+    "B_int": 26,
+    "B_bd": 26
+  },
+  {
+    "L": 152,
+    "n": 76,
+    "B_Xu": 30,
+    "D_Xu": 13,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 32,
+    "B_int": 33,
+    "B_bd": 33
+  },
+  {
+    "L": 156,
+    "n": 16,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 156,
+    "n": 31,
+    "B_Xu": 5,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 156,
+    "n": 47,
+    "B_Xu": 11,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 11,
+    "B_int": 11,
+    "B_bd": 12
+  },
+  {
+    "L": 156,
+    "n": 62,
+    "B_Xu": 19,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 20,
+    "B_int": 21,
+    "B_bd": 21
+  },
+  {
+    "L": 156,
+    "n": 70,
+    "B_Xu": 25,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 26,
+    "B_int": 27,
+    "B_bd": 27
+  },
+  {
+    "L": 156,
+    "n": 78,
+    "B_Xu": 31,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 33,
+    "B_int": 33,
+    "B_bd": 34
+  },
+  {
+    "L": 160,
+    "n": 16,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 160,
+    "n": 32,
+    "B_Xu": 5,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 160,
+    "n": 48,
+    "B_Xu": 11,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 12,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 160,
+    "n": 64,
+    "B_Xu": 20,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 21,
+    "B_int": 21,
+    "B_bd": 22
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "B_Xu": 25,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 26,
+    "B_int": 27,
+    "B_bd": 27
+  },
+  {
+    "L": 160,
+    "n": 72,
+    "B_Xu": 26,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 27,
+    "B_int": 27,
+    "B_bd": 28
+  },
+  {
+    "L": 160,
+    "n": 80,
+    "B_Xu": 32,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 34,
+    "B_int": 34,
+    "B_bd": 35
+  },
+  {
+    "L": 164,
+    "n": 16,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 1,
+    "B_bd": 1
+  },
+  {
+    "L": 164,
+    "n": 33,
+    "B_Xu": 5,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 164,
+    "n": 49,
+    "B_Xu": 11,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 12,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 164,
+    "n": 66,
+    "B_Xu": 21,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 22,
+    "B_int": 22,
+    "B_bd": 23
+  },
+  {
+    "L": 164,
+    "n": 74,
+    "B_Xu": 27,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 28,
+    "B_int": 28,
+    "B_bd": 29
+  },
+  {
+    "L": 164,
+    "n": 82,
+    "B_Xu": 33,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 35,
+    "B_int": 35,
+    "B_bd": 36
+  },
+  {
+    "L": 168,
+    "n": 17,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 168,
+    "n": 34,
+    "B_Xu": 5,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 6
+  },
+  {
+    "L": 168,
+    "n": 50,
+    "B_Xu": 11,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 12,
+    "B_int": 12,
+    "B_bd": 12
+  },
+  {
+    "L": 168,
+    "n": 67,
+    "B_Xu": 21,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 22,
+    "B_int": 22,
+    "B_bd": 23
+  },
+  {
+    "L": 168,
+    "n": 76,
+    "B_Xu": 27,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 29,
+    "B_int": 29,
+    "B_bd": 30
+  },
+  {
+    "L": 168,
+    "n": 84,
+    "B_Xu": 34,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 36,
+    "B_int": 36,
+    "B_bd": 37
+  },
+  {
+    "L": 172,
+    "n": 17,
+    "B_Xu": 1,
+    "D_Xu": 11,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 1,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 172,
+    "n": 34,
+    "B_Xu": 5,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 5,
+    "B_bd": 5
+  },
+  {
+    "L": 172,
+    "n": 52,
+    "B_Xu": 12,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 13,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 172,
+    "n": 69,
+    "B_Xu": 22,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 23,
+    "B_int": 23,
+    "B_bd": 24
+  },
+  {
+    "L": 172,
+    "n": 77,
+    "B_Xu": 28,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 29,
+    "B_int": 29,
+    "B_bd": 30
+  },
+  {
+    "L": 172,
+    "n": 86,
+    "B_Xu": 35,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 37,
+    "B_int": 37,
+    "B_bd": 38
+  },
+  {
+    "L": 176,
+    "n": 18,
+    "B_Xu": 2,
+    "D_Xu": 36,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 176,
+    "n": 35,
+    "B_Xu": 5,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 5,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 176,
+    "n": 53,
+    "B_Xu": 12,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 13,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 176,
+    "n": 70,
+    "B_Xu": 22,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 23,
+    "B_int": 23,
+    "B_bd": 24
+  },
+  {
+    "L": 176,
+    "n": 79,
+    "B_Xu": 28,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 30,
+    "B_int": 30,
+    "B_bd": 31
+  },
+  {
+    "L": 176,
+    "n": 88,
+    "B_Xu": 36,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 38,
+    "B_int": 38,
+    "B_bd": 39
+  },
+  {
+    "L": 180,
+    "n": 18,
+    "B_Xu": 2,
+    "D_Xu": 41,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 180,
+    "n": 36,
+    "B_Xu": 5,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 180,
+    "n": 54,
+    "B_Xu": 13,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 13,
+    "B_int": 13,
+    "B_bd": 13
+  },
+  {
+    "L": 180,
+    "n": 72,
+    "B_Xu": 23,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 24,
+    "B_int": 24,
+    "B_bd": 25
+  },
+  {
+    "L": 180,
+    "n": 81,
+    "B_Xu": 29,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 31,
+    "B_int": 31,
+    "B_bd": 32
+  },
+  {
+    "L": 180,
+    "n": 90,
+    "B_Xu": 36,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 39,
+    "B_int": 39,
+    "B_bd": 40
+  },
+  {
+    "L": 184,
+    "n": 18,
+    "B_Xu": 2,
+    "D_Xu": 48,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 184,
+    "n": 37,
+    "B_Xu": 6,
+    "D_Xu": 25,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 184,
+    "n": 55,
+    "B_Xu": 13,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 13,
+    "B_int": 13,
+    "B_bd": 14
+  },
+  {
+    "L": 184,
+    "n": 74,
+    "B_Xu": 24,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 25,
+    "B_int": 25,
+    "B_bd": 26
+  },
+  {
+    "L": 184,
+    "n": 83,
+    "B_Xu": 30,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 32,
+    "B_int": 32,
+    "B_bd": 33
+  },
+  {
+    "L": 184,
+    "n": 92,
+    "B_Xu": 37,
+    "D_Xu": 14,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 40,
+    "B_int": 40,
+    "B_bd": 41
+  },
+  {
+    "L": 188,
+    "n": 19,
+    "B_Xu": 2,
+    "D_Xu": 31,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 188,
+    "n": 38,
+    "B_Xu": 6,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 188,
+    "n": 56,
+    "B_Xu": 13,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 14,
+    "B_int": 14,
+    "B_bd": 14
+  },
+  {
+    "L": 188,
+    "n": 75,
+    "B_Xu": 24,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 25,
+    "B_int": 25,
+    "B_bd": 26
+  },
+  {
+    "L": 188,
+    "n": 85,
+    "B_Xu": 31,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 33,
+    "B_int": 33,
+    "B_bd": 34
+  },
+  {
+    "L": 188,
+    "n": 94,
+    "B_Xu": 38,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 41,
+    "B_int": 41,
+    "B_bd": 42
+  },
+  {
+    "L": 192,
+    "n": 19,
+    "B_Xu": 2,
+    "D_Xu": 34,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 192,
+    "n": 38,
+    "B_Xu": 6,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 192,
+    "n": 58,
+    "B_Xu": 14,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 14,
+    "B_int": 14,
+    "B_bd": 15
+  },
+  {
+    "L": 192,
+    "n": 77,
+    "B_Xu": 25,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 26,
+    "B_int": 26,
+    "B_bd": 27
+  },
+  {
+    "L": 192,
+    "n": 86,
+    "B_Xu": 31,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 33,
+    "B_int": 33,
+    "B_bd": 34
+  },
+  {
+    "L": 192,
+    "n": 96,
+    "B_Xu": 39,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 42,
+    "B_int": 42,
+    "B_bd": 43
+  },
+  {
+    "L": 196,
+    "n": 20,
+    "B_Xu": 2,
+    "D_Xu": 27,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 196,
+    "n": 39,
+    "B_Xu": 6,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 196,
+    "n": 59,
+    "B_Xu": 14,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 15,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 196,
+    "n": 78,
+    "B_Xu": 25,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 26,
+    "B_int": 26,
+    "B_bd": 27
+  },
+  {
+    "L": 196,
+    "n": 88,
+    "B_Xu": 32,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 34,
+    "B_int": 34,
+    "B_bd": 35
+  },
+  {
+    "L": 196,
+    "n": 98,
+    "B_Xu": 40,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 43,
+    "B_int": 43,
+    "B_bd": 44
+  },
+  {
+    "L": 200,
+    "n": 20,
+    "B_Xu": 2,
+    "D_Xu": 28,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 200,
+    "n": 40,
+    "B_Xu": 6,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 6,
+    "B_int": 6,
+    "B_bd": 6
+  },
+  {
+    "L": 200,
+    "n": 60,
+    "B_Xu": 14,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 15,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 200,
+    "n": 80,
+    "B_Xu": 26,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 27,
+    "B_int": 27,
+    "B_bd": 28
+  },
+  {
+    "L": 200,
+    "n": 90,
+    "B_Xu": 33,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 35,
+    "B_int": 35,
+    "B_bd": 36
+  },
+  {
+    "L": 200,
+    "n": 100,
+    "B_Xu": 41,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 43,
+    "B_int": 44,
+    "B_bd": 45
+  },
+  {
+    "L": 204,
+    "n": 20,
+    "B_Xu": 2,
+    "D_Xu": 30,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 204,
+    "n": 41,
+    "B_Xu": 6,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 204,
+    "n": 61,
+    "B_Xu": 14,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 15,
+    "B_int": 15,
+    "B_bd": 15
+  },
+  {
+    "L": 204,
+    "n": 82,
+    "B_Xu": 27,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 28,
+    "B_int": 28,
+    "B_bd": 29
+  },
+  {
+    "L": 204,
+    "n": 92,
+    "B_Xu": 34,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 36,
+    "B_int": 36,
+    "B_bd": 37
+  },
+  {
+    "L": 204,
+    "n": 102,
+    "B_Xu": 42,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 44,
+    "B_int": 45,
+    "B_bd": 46
+  },
+  {
+    "L": 208,
+    "n": 21,
+    "B_Xu": 2,
+    "D_Xu": 19,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 208,
+    "n": 42,
+    "B_Xu": 7,
+    "D_Xu": 32,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 208,
+    "n": 62,
+    "B_Xu": 15,
+    "D_Xu": 26,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 15,
+    "B_int": 15,
+    "B_bd": 16
+  },
+  {
+    "L": 208,
+    "n": 83,
+    "B_Xu": 27,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 28,
+    "B_int": 28,
+    "B_bd": 29
+  },
+  {
+    "L": 208,
+    "n": 94,
+    "B_Xu": 35,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 37,
+    "B_int": 37,
+    "B_bd": 38
+  },
+  {
+    "L": 208,
+    "n": 104,
+    "B_Xu": 43,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 45,
+    "B_int": 46,
+    "B_bd": 47
+  },
+  {
+    "L": 212,
+    "n": 21,
+    "B_Xu": 2,
+    "D_Xu": 26,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 212,
+    "n": 42,
+    "B_Xu": 6,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 212,
+    "n": 64,
+    "B_Xu": 15,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 16,
+    "B_int": 16,
+    "B_bd": 16
+  },
+  {
+    "L": 212,
+    "n": 85,
+    "B_Xu": 28,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 29,
+    "B_int": 29,
+    "B_bd": 30
+  },
+  {
+    "L": 212,
+    "n": 95,
+    "B_Xu": 35,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 37,
+    "B_int": 37,
+    "B_bd": 38
+  },
+  {
+    "L": 212,
+    "n": 106,
+    "B_Xu": 44,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 46,
+    "B_int": 46,
+    "B_bd": 47
+  },
+  {
+    "L": 216,
+    "n": 22,
+    "B_Xu": 2,
+    "D_Xu": 16,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 216,
+    "n": 43,
+    "B_Xu": 7,
+    "D_Xu": 28,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 216,
+    "n": 65,
+    "B_Xu": 15,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 16,
+    "B_int": 16,
+    "B_bd": 17
+  },
+  {
+    "L": 216,
+    "n": 86,
+    "B_Xu": 28,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 29,
+    "B_int": 29,
+    "B_bd": 30
+  },
+  {
+    "L": 216,
+    "n": 97,
+    "B_Xu": 36,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 38,
+    "B_int": 38,
+    "B_bd": 39
+  },
+  {
+    "L": 216,
+    "n": 108,
+    "B_Xu": 45,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 47,
+    "B_int": 47,
+    "B_bd": 48
+  },
+  {
+    "L": 220,
+    "n": 22,
+    "B_Xu": 2,
+    "D_Xu": 17,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 220,
+    "n": 44,
+    "B_Xu": 7,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 220,
+    "n": 66,
+    "B_Xu": 16,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 16,
+    "B_int": 16,
+    "B_bd": 17
+  },
+  {
+    "L": 220,
+    "n": 88,
+    "B_Xu": 29,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 30,
+    "B_int": 30,
+    "B_bd": 31
+  },
+  {
+    "L": 220,
+    "n": 99,
+    "B_Xu": 37,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 38,
+    "B_int": 39,
+    "B_bd": 39
+  },
+  {
+    "L": 220,
+    "n": 110,
+    "B_Xu": 45,
+    "D_Xu": 15,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 48,
+    "B_int": 48,
+    "B_bd": 49
+  },
+  {
+    "L": 224,
+    "n": 22,
+    "B_Xu": 2,
+    "D_Xu": 18,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 224,
+    "n": 45,
+    "B_Xu": 7,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 224,
+    "n": 67,
+    "B_Xu": 16,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 17,
+    "B_int": 17,
+    "B_bd": 17
+  },
+  {
+    "L": 224,
+    "n": 90,
+    "B_Xu": 29,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 31,
+    "B_int": 31,
+    "B_bd": 32
+  },
+  {
+    "L": 224,
+    "n": 101,
+    "B_Xu": 37,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 39,
+    "B_int": 40,
+    "B_bd": 40
+  },
+  {
+    "L": 224,
+    "n": 112,
+    "B_Xu": 46,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 49,
+    "B_int": 49,
+    "B_bd": 50
+  },
+  {
+    "L": 228,
+    "n": 23,
+    "B_Xu": 2,
+    "D_Xu": 16,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 228,
+    "n": 46,
+    "B_Xu": 7,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 228,
+    "n": 68,
+    "B_Xu": 16,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 17,
+    "B_int": 17,
+    "B_bd": 17
+  },
+  {
+    "L": 228,
+    "n": 91,
+    "B_Xu": 30,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 31,
+    "B_int": 31,
+    "B_bd": 32
+  },
+  {
+    "L": 228,
+    "n": 103,
+    "B_Xu": 38,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 40,
+    "B_int": 40,
+    "B_bd": 41
+  },
+  {
+    "L": 228,
+    "n": 114,
+    "B_Xu": 47,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 50,
+    "B_int": 50,
+    "B_bd": 51
+  },
+  {
+    "L": 232,
+    "n": 23,
+    "B_Xu": 2,
+    "D_Xu": 16,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 232,
+    "n": 46,
+    "B_Xu": 7,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 7,
+    "B_int": 7,
+    "B_bd": 7
+  },
+  {
+    "L": 232,
+    "n": 70,
+    "B_Xu": 17,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 18
+  },
+  {
+    "L": 232,
+    "n": 93,
+    "B_Xu": 30,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 32,
+    "B_int": 32,
+    "B_bd": 33
+  },
+  {
+    "L": 232,
+    "n": 104,
+    "B_Xu": 38,
+    "D_Xu": 16,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 40,
+    "B_int": 41,
+    "B_bd": 41
+  },
+  {
+    "L": 232,
+    "n": 116,
+    "B_Xu": 48,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 51,
+    "B_int": 51,
+    "B_bd": 52
+  },
+  {
+    "L": 236,
+    "n": 24,
+    "B_Xu": 2,
+    "D_Xu": 15,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 236,
+    "n": 47,
+    "B_Xu": 7,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 236,
+    "n": 71,
+    "B_Xu": 17,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 18
+  },
+  {
+    "L": 236,
+    "n": 94,
+    "B_Xu": 31,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 32,
+    "B_int": 32,
+    "B_bd": 33
+  },
+  {
+    "L": 236,
+    "n": 106,
+    "B_Xu": 39,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 41,
+    "B_int": 41,
+    "B_bd": 42
+  },
+  {
+    "L": 236,
+    "n": 118,
+    "B_Xu": 49,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 52,
+    "B_int": 52,
+    "B_bd": 53
+  },
+  {
+    "L": 240,
+    "n": 24,
+    "B_Xu": 2,
+    "D_Xu": 15,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 240,
+    "n": 48,
+    "B_Xu": 8,
+    "D_Xu": 39,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 240,
+    "n": 72,
+    "B_Xu": 17,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 18
+  },
+  {
+    "L": 240,
+    "n": 96,
+    "B_Xu": 31,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 33,
+    "B_int": 33,
+    "B_bd": 34
+  },
+  {
+    "L": 240,
+    "n": 108,
+    "B_Xu": 40,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 42,
+    "B_int": 42,
+    "B_bd": 43
+  },
+  {
+    "L": 240,
+    "n": 120,
+    "B_Xu": 50,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 53,
+    "B_int": 53,
+    "B_bd": 54
+  },
+  {
+    "L": 244,
+    "n": 24,
+    "B_Xu": 2,
+    "D_Xu": 16,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 244,
+    "n": 49,
+    "B_Xu": 8,
+    "D_Xu": 27,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 244,
+    "n": 73,
+    "B_Xu": 17,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 19
+  },
+  {
+    "L": 244,
+    "n": 98,
+    "B_Xu": 32,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 34,
+    "B_int": 34,
+    "B_bd": 35
+  },
+  {
+    "L": 244,
+    "n": 110,
+    "B_Xu": 41,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 43,
+    "B_int": 43,
+    "B_bd": 44
+  },
+  {
+    "L": 244,
+    "n": 122,
+    "B_Xu": 51,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 54,
+    "B_int": 54,
+    "B_bd": 55
+  },
+  {
+    "L": 248,
+    "n": 25,
+    "B_Xu": 2,
+    "D_Xu": 15,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 248,
+    "n": 50,
+    "B_Xu": 8,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 248,
+    "n": 74,
+    "B_Xu": 18,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 18,
+    "B_int": 18,
+    "B_bd": 19
+  },
+  {
+    "L": 248,
+    "n": 99,
+    "B_Xu": 32,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 34,
+    "B_int": 34,
+    "B_bd": 35
+  },
+  {
+    "L": 248,
+    "n": 112,
+    "B_Xu": 42,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 44,
+    "B_int": 44,
+    "B_bd": 45
+  },
+  {
+    "L": 248,
+    "n": 124,
+    "B_Xu": 52,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 55,
+    "B_int": 55,
+    "B_bd": 56
+  },
+  {
+    "L": 252,
+    "n": 25,
+    "B_Xu": 2,
+    "D_Xu": 15,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 252,
+    "n": 50,
+    "B_Xu": 8,
+    "D_Xu": 26,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 252,
+    "n": 76,
+    "B_Xu": 18,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 19,
+    "B_int": 19,
+    "B_bd": 20
+  },
+  {
+    "L": 252,
+    "n": 101,
+    "B_Xu": 33,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 35,
+    "B_int": 35,
+    "B_bd": 36
+  },
+  {
+    "L": 252,
+    "n": 113,
+    "B_Xu": 42,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 44,
+    "B_int": 44,
+    "B_bd": 45
+  },
+  {
+    "L": 252,
+    "n": 126,
+    "B_Xu": 53,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 56,
+    "B_int": 56,
+    "B_bd": 57
+  },
+  {
+    "L": 256,
+    "n": 26,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 256,
+    "n": 51,
+    "B_Xu": 8,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 8
+  },
+  {
+    "L": 256,
+    "n": 77,
+    "B_Xu": 19,
+    "D_Xu": 26,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 19,
+    "B_int": 19,
+    "B_bd": 20
+  },
+  {
+    "L": 256,
+    "n": 102,
+    "B_Xu": 33,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 35,
+    "B_int": 35,
+    "B_bd": 36
+  },
+  {
+    "L": 256,
+    "n": 115,
+    "B_Xu": 43,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 45,
+    "B_int": 45,
+    "B_bd": 46
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "B_Xu": 45,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 48,
+    "B_int": 48,
+    "B_bd": 49
+  },
+  {
+    "L": 256,
+    "n": 128,
+    "B_Xu": 54,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 57,
+    "B_int": 57,
+    "B_bd": 58
+  },
+  {
+    "L": 260,
+    "n": 26,
+    "B_Xu": 2,
+    "D_Xu": 15,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 260,
+    "n": 52,
+    "B_Xu": 8,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 8,
+    "B_int": 8,
+    "B_bd": 9
+  },
+  {
+    "L": 260,
+    "n": 78,
+    "B_Xu": 19,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 20,
+    "B_int": 20,
+    "B_bd": 20
+  },
+  {
+    "L": 260,
+    "n": 104,
+    "B_Xu": 34,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 36,
+    "B_int": 36,
+    "B_bd": 37
+  },
+  {
+    "L": 260,
+    "n": 117,
+    "B_Xu": 44,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 46,
+    "B_int": 46,
+    "B_bd": 47
+  },
+  {
+    "L": 260,
+    "n": 130,
+    "B_Xu": 55,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 57,
+    "B_int": 58,
+    "B_bd": 59
+  },
+  {
+    "L": 264,
+    "n": 26,
+    "B_Xu": 2,
+    "D_Xu": 15,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 264,
+    "n": 53,
+    "B_Xu": 8,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 264,
+    "n": 79,
+    "B_Xu": 19,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 20,
+    "B_int": 20,
+    "B_bd": 20
+  },
+  {
+    "L": 264,
+    "n": 106,
+    "B_Xu": 35,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 37,
+    "B_int": 37,
+    "B_bd": 38
+  },
+  {
+    "L": 264,
+    "n": 119,
+    "B_Xu": 45,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 47,
+    "B_int": 47,
+    "B_bd": 48
+  },
+  {
+    "L": 264,
+    "n": 132,
+    "B_Xu": 55,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 58,
+    "B_int": 59,
+    "B_bd": 60
+  },
+  {
+    "L": 268,
+    "n": 27,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 268,
+    "n": 54,
+    "B_Xu": 9,
+    "D_Xu": 32,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 268,
+    "n": 80,
+    "B_Xu": 19,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 20,
+    "B_int": 20,
+    "B_bd": 20
+  },
+  {
+    "L": 268,
+    "n": 107,
+    "B_Xu": 35,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 37,
+    "B_int": 37,
+    "B_bd": 38
+  },
+  {
+    "L": 268,
+    "n": 121,
+    "B_Xu": 46,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 48,
+    "B_int": 48,
+    "B_bd": 49
+  },
+  {
+    "L": 268,
+    "n": 134,
+    "B_Xu": 56,
+    "D_Xu": 17,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 59,
+    "B_int": 60,
+    "B_bd": 61
+  },
+  {
+    "L": 272,
+    "n": 27,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 272,
+    "n": 54,
+    "B_Xu": 8,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 272,
+    "n": 82,
+    "B_Xu": 20,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 21,
+    "B_int": 21,
+    "B_bd": 21
+  },
+  {
+    "L": 272,
+    "n": 109,
+    "B_Xu": 36,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 38,
+    "B_int": 38,
+    "B_bd": 39
+  },
+  {
+    "L": 272,
+    "n": 122,
+    "B_Xu": 46,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 48,
+    "B_int": 48,
+    "B_bd": 49
+  },
+  {
+    "L": 272,
+    "n": 136,
+    "B_Xu": 57,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 60,
+    "B_int": 60,
+    "B_bd": 62
+  },
+  {
+    "L": 276,
+    "n": 28,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 276,
+    "n": 55,
+    "B_Xu": 9,
+    "D_Xu": 30,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 276,
+    "n": 83,
+    "B_Xu": 20,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 21,
+    "B_int": 21,
+    "B_bd": 21
+  },
+  {
+    "L": 276,
+    "n": 110,
+    "B_Xu": 36,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 38,
+    "B_int": 38,
+    "B_bd": 39
+  },
+  {
+    "L": 276,
+    "n": 124,
+    "B_Xu": 47,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 49,
+    "B_int": 49,
+    "B_bd": 50
+  },
+  {
+    "L": 276,
+    "n": 138,
+    "B_Xu": 58,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 61,
+    "B_int": 61,
+    "B_bd": 63
+  },
+  {
+    "L": 280,
+    "n": 28,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 280,
+    "n": 56,
+    "B_Xu": 9,
+    "D_Xu": 25,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 9
+  },
+  {
+    "L": 280,
+    "n": 84,
+    "B_Xu": 20,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 21,
+    "B_int": 21,
+    "B_bd": 22
+  },
+  {
+    "L": 280,
+    "n": 112,
+    "B_Xu": 37,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 39,
+    "B_int": 39,
+    "B_bd": 40
+  },
+  {
+    "L": 280,
+    "n": 126,
+    "B_Xu": 48,
+    "D_Xu": 27,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 50,
+    "B_int": 50,
+    "B_bd": 51
+  },
+  {
+    "L": 280,
+    "n": 140,
+    "B_Xu": 59,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 62,
+    "B_int": 62,
+    "B_bd": 64
+  },
+  {
+    "L": 284,
+    "n": 28,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 284,
+    "n": 57,
+    "B_Xu": 9,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 10
+  },
+  {
+    "L": 284,
+    "n": 85,
+    "B_Xu": 21,
+    "D_Xu": 27,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 21,
+    "B_int": 22,
+    "B_bd": 22
+  },
+  {
+    "L": 284,
+    "n": 114,
+    "B_Xu": 38,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 40,
+    "B_int": 40,
+    "B_bd": 41
+  },
+  {
+    "L": 284,
+    "n": 128,
+    "B_Xu": 48,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 51,
+    "B_int": 51,
+    "B_bd": 52
+  },
+  {
+    "L": 284,
+    "n": 142,
+    "B_Xu": 60,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 63,
+    "B_int": 63,
+    "B_bd": 65
+  },
+  {
+    "L": 288,
+    "n": 29,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 3
+  },
+  {
+    "L": 288,
+    "n": 58,
+    "B_Xu": 9,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 288,
+    "n": 86,
+    "B_Xu": 21,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 22,
+    "B_int": 22,
+    "B_bd": 22
+  },
+  {
+    "L": 288,
+    "n": 115,
+    "B_Xu": 38,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 40,
+    "B_int": 40,
+    "B_bd": 41
+  },
+  {
+    "L": 288,
+    "n": 130,
+    "B_Xu": 49,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 52,
+    "B_int": 52,
+    "B_bd": 53
+  },
+  {
+    "L": 288,
+    "n": 144,
+    "B_Xu": 61,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 64,
+    "B_int": 64,
+    "B_bd": 65
+  },
+  {
+    "L": 292,
+    "n": 29,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 2,
+    "B_int": 2,
+    "B_bd": 2
+  },
+  {
+    "L": 292,
+    "n": 58,
+    "B_Xu": 9,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 9,
+    "B_int": 9,
+    "B_bd": 10
+  },
+  {
+    "L": 292,
+    "n": 88,
+    "B_Xu": 22,
+    "D_Xu": 28,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 22,
+    "B_int": 23,
+    "B_bd": 23
+  },
+  {
+    "L": 292,
+    "n": 117,
+    "B_Xu": 39,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 41,
+    "B_int": 41,
+    "B_bd": 42
+  },
+  {
+    "L": 292,
+    "n": 131,
+    "B_Xu": 49,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 52,
+    "B_int": 52,
+    "B_bd": 53
+  },
+  {
+    "L": 292,
+    "n": 146,
+    "B_Xu": 62,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 65,
+    "B_int": 65,
+    "B_bd": 66
+  },
+  {
+    "L": 296,
+    "n": 30,
+    "B_Xu": 3,
+    "D_Xu": 55,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 296,
+    "n": 59,
+    "B_Xu": 9,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 296,
+    "n": 89,
+    "B_Xu": 22,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 23,
+    "B_int": 23,
+    "B_bd": 23
+  },
+  {
+    "L": 296,
+    "n": 118,
+    "B_Xu": 39,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 41,
+    "B_int": 41,
+    "B_bd": 42
+  },
+  {
+    "L": 296,
+    "n": 133,
+    "B_Xu": 50,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 53,
+    "B_int": 53,
+    "B_bd": 54
+  },
+  {
+    "L": 296,
+    "n": 148,
+    "B_Xu": 63,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 66,
+    "B_int": 66,
+    "B_bd": 67
+  },
+  {
+    "L": 300,
+    "n": 30,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 300,
+    "n": 60,
+    "B_Xu": 10,
+    "D_Xu": 35,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 300,
+    "n": 90,
+    "B_Xu": 22,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 23,
+    "B_int": 23,
+    "B_bd": 23
+  },
+  {
+    "L": 300,
+    "n": 120,
+    "B_Xu": 40,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 42,
+    "B_int": 42,
+    "B_bd": 43
+  },
+  {
+    "L": 300,
+    "n": 135,
+    "B_Xu": 51,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 54,
+    "B_int": 54,
+    "B_bd": 55
+  },
+  {
+    "L": 300,
+    "n": 150,
+    "B_Xu": 64,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 67,
+    "B_int": 67,
+    "B_bd": 68
+  },
+  {
+    "L": 304,
+    "n": 30,
+    "B_Xu": 2,
+    "D_Xu": 14,
+    "Xu_source": "Proposition 2.2",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 304,
+    "n": 61,
+    "B_Xu": 10,
+    "D_Xu": 29,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 304,
+    "n": 91,
+    "B_Xu": 22,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 23,
+    "B_int": 23,
+    "B_bd": 24
+  },
+  {
+    "L": 304,
+    "n": 122,
+    "B_Xu": 41,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 43,
+    "B_int": 43,
+    "B_bd": 44
+  },
+  {
+    "L": 304,
+    "n": 137,
+    "B_Xu": 52,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 54,
+    "B_int": 55,
+    "B_bd": 56
+  },
+  {
+    "L": 304,
+    "n": 152,
+    "B_Xu": 65,
+    "D_Xu": 23,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 68,
+    "B_int": 68,
+    "B_bd": 69
+  },
+  {
+    "L": 308,
+    "n": 31,
+    "B_Xu": 3,
+    "D_Xu": 44,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 308,
+    "n": 62,
+    "B_Xu": 10,
+    "D_Xu": 25,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 308,
+    "n": 92,
+    "B_Xu": 23,
+    "D_Xu": 33,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 23,
+    "B_int": 23,
+    "B_bd": 24
+  },
+  {
+    "L": 308,
+    "n": 123,
+    "B_Xu": 41,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 43,
+    "B_int": 43,
+    "B_bd": 44
+  },
+  {
+    "L": 308,
+    "n": 139,
+    "B_Xu": 53,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 55,
+    "B_int": 56,
+    "B_bd": 57
+  },
+  {
+    "L": 308,
+    "n": 154,
+    "B_Xu": 66,
+    "D_Xu": 25,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 69,
+    "B_int": 69,
+    "B_bd": 70
+  },
+  {
+    "L": 312,
+    "n": 31,
+    "B_Xu": 3,
+    "D_Xu": 48,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 312,
+    "n": 62,
+    "B_Xu": 10,
+    "D_Xu": 27,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 10
+  },
+  {
+    "L": 312,
+    "n": 94,
+    "B_Xu": 23,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 24,
+    "B_int": 24,
+    "B_bd": 25
+  },
+  {
+    "L": 312,
+    "n": 125,
+    "B_Xu": 42,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 44,
+    "B_int": 44,
+    "B_bd": 45
+  },
+  {
+    "L": 312,
+    "n": 140,
+    "B_Xu": 53,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 55,
+    "B_int": 56,
+    "B_bd": 57
+  },
+  {
+    "L": 312,
+    "n": 156,
+    "B_Xu": 66,
+    "D_Xu": 18,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 70,
+    "B_int": 70,
+    "B_bd": 71
+  },
+  {
+    "L": 316,
+    "n": 32,
+    "B_Xu": 3,
+    "D_Xu": 37,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 316,
+    "n": 63,
+    "B_Xu": 10,
+    "D_Xu": 24,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 10,
+    "B_int": 10,
+    "B_bd": 11
+  },
+  {
+    "L": 316,
+    "n": 95,
+    "B_Xu": 23,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 24,
+    "B_int": 24,
+    "B_bd": 25
+  },
+  {
+    "L": 316,
+    "n": 126,
+    "B_Xu": 42,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 44,
+    "B_int": 44,
+    "B_bd": 45
+  },
+  {
+    "L": 316,
+    "n": 142,
+    "B_Xu": 54,
+    "D_Xu": 21,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 56,
+    "B_int": 57,
+    "B_bd": 58
+  },
+  {
+    "L": 316,
+    "n": 158,
+    "B_Xu": 67,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 71,
+    "B_int": 71,
+    "B_bd": 72
+  },
+  {
+    "L": 320,
+    "n": 32,
+    "B_Xu": 3,
+    "D_Xu": 39,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 3,
+    "B_int": 3,
+    "B_bd": 3
+  },
+  {
+    "L": 320,
+    "n": 64,
+    "B_Xu": 10,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 11,
+    "B_int": 11,
+    "B_bd": 11
+  },
+  {
+    "L": 320,
+    "n": 96,
+    "B_Xu": 24,
+    "D_Xu": 28,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 25,
+    "B_int": 25,
+    "B_bd": 25
+  },
+  {
+    "L": 320,
+    "n": 128,
+    "B_Xu": 43,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 45,
+    "B_int": 45,
+    "B_bd": 46
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "B_Xu": 53,
+    "D_Xu": 20,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 56,
+    "B_int": 56,
+    "B_bd": 57
+  },
+  {
+    "L": 320,
+    "n": 144,
+    "B_Xu": 55,
+    "D_Xu": 22,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 57,
+    "B_int": 58,
+    "B_bd": 59
+  },
+  {
+    "L": 320,
+    "n": 160,
+    "B_Xu": 68,
+    "D_Xu": 19,
+    "Xu_source": "Theorem 3.1",
+    "B_CS": 72,
+    "B_int": 72,
+    "B_bd": 73
+  }
+]

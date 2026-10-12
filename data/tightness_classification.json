@@ -1,0 +1,345 @@
+[
+  {
+    "classification": "parity",
+    "value": 0,
+    "pairs": 90,
+    "tight": 87,
+    "max_gap": 1
+  },
+  {
+    "classification": "parity",
+    "value": 1,
+    "pairs": 80,
+    "tight": 78,
+    "max_gap": 1
+  },
+  {
+    "classification": "u",
+    "value": 2,
+    "pairs": 49,
+    "tight": 49,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 3,
+    "pairs": 34,
+    "tight": 30,
+    "max_gap": 1
+  },
+  {
+    "classification": "u",
+    "value": 4,
+    "pairs": 36,
+    "tight": 35,
+    "max_gap": 1
+  },
+  {
+    "classification": "u",
+    "value": 5,
+    "pairs": 18,
+    "tight": 18,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 6,
+    "pairs": 8,
+    "tight": 8,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 7,
+    "pairs": 5,
+    "tight": 5,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 8,
+    "pairs": 4,
+    "tight": 4,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 9,
+    "pairs": 3,
+    "tight": 3,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 10,
+    "pairs": 3,
+    "tight": 3,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 11,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 12,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 13,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 14,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 15,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 16,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 17,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 18,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 19,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "u",
+    "value": 20,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "k",
+    "value": 1,
+    "pairs": 151,
+    "tight": 146,
+    "max_gap": 1
+  },
+  {
+    "classification": "k",
+    "value": 2,
+    "pairs": 19,
+    "tight": 19,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 1,
+    "pairs": 34,
+    "tight": 34,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 2,
+    "pairs": 19,
+    "tight": 18,
+    "max_gap": 1
+  },
+  {
+    "classification": "eta",
+    "value": 3,
+    "pairs": 11,
+    "tight": 11,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 4,
+    "pairs": 14,
+    "tight": 12,
+    "max_gap": 1
+  },
+  {
+    "classification": "eta",
+    "value": 5,
+    "pairs": 6,
+    "tight": 6,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 6,
+    "pairs": 9,
+    "tight": 9,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 7,
+    "pairs": 12,
+    "tight": 12,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 8,
+    "pairs": 14,
+    "tight": 14,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 9,
+    "pairs": 7,
+    "tight": 7,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 10,
+    "pairs": 10,
+    "tight": 10,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 11,
+    "pairs": 10,
+    "tight": 9,
+    "max_gap": 1
+  },
+  {
+    "classification": "eta",
+    "value": 12,
+    "pairs": 7,
+    "tight": 7,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 13,
+    "pairs": 7,
+    "tight": 7,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 14,
+    "pairs": 5,
+    "tight": 4,
+    "max_gap": 1
+  },
+  {
+    "classification": "eta",
+    "value": 15,
+    "pairs": 2,
+    "tight": 2,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 16,
+    "pairs": 2,
+    "tight": 2,
+    "max_gap": 0
+  },
+  {
+    "classification": "eta",
+    "value": 17,
+    "pairs": 1,
+    "tight": 1,
+    "max_gap": 0
+  },
+  {
+    "classification": "density_band",
+    "value": "0.1-0.2",
+    "pairs": 15,
+    "tight": 15,
+    "max_gap": 0
+  },
+  {
+    "classification": "density_band",
+    "value": "0.2-0.3",
+    "pairs": 20,
+    "tight": 20,
+    "max_gap": 0
+  },
+  {
+    "classification": "density_band",
+    "value": "0.3-0.4",
+    "pairs": 19,
+    "tight": 18,
+    "max_gap": 1
+  },
+  {
+    "classification": "density_band",
+    "value": "0.4-0.5",
+    "pairs": 18,
+    "tight": 16,
+    "max_gap": 1
+  },
+  {
+    "classification": "density_band",
+    "value": "0.5-0.6",
+    "pairs": 23,
+    "tight": 22,
+    "max_gap": 1
+  },
+  {
+    "classification": "density_band",
+    "value": "0.6-0.7",
+    "pairs": 21,
+    "tight": 20,
+    "max_gap": 1
+  },
+  {
+    "classification": "density_band",
+    "value": "0.7-0.8",
+    "pairs": 20,
+    "tight": 20,
+    "max_gap": 0
+  },
+  {
+    "classification": "density_band",
+    "value": "0.8-0.9",
+    "pairs": 22,
+    "tight": 22,
+    "max_gap": 0
+  },
+  {
+    "classification": "density_band",
+    "value": "0.9-1.0",
+    "pairs": 12,
+    "tight": 12,
+    "max_gap": 0
+  }
+]

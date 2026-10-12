@@ -1,0 +1,42 @@
+[
+  {
+    "region": "n<20",
+    "pairs": 101,
+    "B_bd_stronger": 43,
+    "equal": 49,
+    "B_bd_weaker": 9,
+    "mean_difference": 0.337
+  },
+  {
+    "region": "20<=n<40",
+    "pairs": 106,
+    "B_bd_stronger": 81,
+    "equal": 25,
+    "B_bd_weaker": 0,
+    "mean_difference": 3.349
+  },
+  {
+    "region": "n>=40",
+    "pairs": 255,
+    "B_bd_stronger": 255,
+    "equal": 0,
+    "B_bd_weaker": 0,
+    "mean_difference": 27.902
+  },
+  {
+    "region": "table has k=n",
+    "pairs": 274,
+    "B_bd_stronger": 191,
+    "equal": 74,
+    "B_bd_weaker": 9,
+    "mean_difference": 4.164
+  },
+  {
+    "region": "monotone-excluded only",
+    "pairs": 188,
+    "B_bd_stronger": 188,
+    "equal": 0,
+    "B_bd_weaker": 0,
+    "mean_difference": 33.846
+  }
+]

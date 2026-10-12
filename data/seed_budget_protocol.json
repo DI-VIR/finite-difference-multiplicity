@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "streams": 1620,
+  "checkpoint_records": 4860,
+  "budgets": [
+    0,
+    3000,
+    30000
+  ],
+  "seconds": 361.638,
+  "SA_schedule": "T(j)=0.02^((j-1)/29999), best incumbent retained",
+  "protocol": "All nine original pairs; thirty shared identifiers per arm; direct maximum multiplicity objective; initial and final full witnesses retained."
+}

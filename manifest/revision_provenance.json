@@ -1,0 +1,115 @@
+{
+  "release": "v1.3_submission",
+  "source_revision": "Fourier and experimental strengthening of v1.2; historical populations preserved",
+  "historical_records": [
+    "Complete finite map and optimum classes",
+    "Published-diameter source cells",
+    "Medium MILP statuses, witnesses and timings",
+    "Original moment certificates",
+    "Historical Paley runs",
+    "Explicit-candidate reduction implementation"
+  ],
+  "preceding_submission_revision_records": {
+    "seven_case_profiles": "126 windows; original dense DP compared to independent sparse integer DP",
+    "infinite_family": "42 exact arithmetic full-window checks; infinitude proved algebraically in main Theorem 4",
+    "strengthened_residuals": "Five MILP-produced vectors from the preceding revision; reverified as final proof witnesses",
+    "modular_comparison": "45 cells, 1350 preceding-revision runs; saved population independently rechecked"
+  },
+  "final_closure_records": {
+    "boundary_and_slack": "4324 capacity domains; 466 small binary sets; four worked examples",
+    "construction_metadata": "All 36 algebraic sources regenerated and verified; Paley metadata completed without changing marks",
+    "supplementary_family_table": "First 20 consecutive k values plus three larger checks; same full 42-point evidence",
+    "literature_numbering": "Gupta-O'Bryant v1 Lemmas 6/7 and Theorem 4; Gupta v1 Lemmas 1/2 and Theorem 3",
+    "scope": "No new large enumeration, random-method population or cryptographic experiment"
+  },
+  "scope_closure_records": {
+    "symbolic_checks": "14 identities supporting the expectation, correction and half-density proof algebra",
+    "weighted_binary_formulation": "12 small weighted-window MILP minima checked against independent pair enumeration; L<=12 only",
+    "evidence_scope": "New Table S15; no scalable binary optimization or infinite residual-family claim",
+    "references": "Two adjacent sources added; five recent public identifiers and formal-version candidates refreshed on 2026-10-04",
+    "prior_data": "Previous medium solver outcomes and the 1350 construction population preserved unchanged"
+  },
+  "fourier_strengthening_records": {
+    "exact_exclusions": "Five complete rational-certificate integer trees; 758 independent checked leaves",
+    "new_seed_budget_population": "1620 streams; 4860 checkpoints at 0,3000,30000; generic Random-SA control",
+    "binary_window_extension": "Six triples at L=28,32,40,48,64,80; two analytic equalities; four 60-second brackets",
+    "historical_sources": "Nine full-coordinate matches to original records; distinct solver and construction witnesses",
+    "direct_prior": "Xu 2018 finite positive-difference bounds; exact rational ceilings",
+    "new_tables": "S16 through S21; main Table 1 through Table 9 unchanged in numbering",
+    "claims": "Strong NP-completeness for explicit polynomial-coordinate candidates; no general SDP exactness"
+  },
+  "independent_rerun": {
+    "status": "PASS",
+    "paper": "DAM",
+    "finite_witnesses": 252,
+    "boundary_tight": 245,
+    "binary_tight": 247,
+    "complete_enumerated_pairs": 252,
+    "optimum_counts_and_classes_checked": 252,
+    "moment_hierarchy_vectors": 5,
+    "joint_integer_vectors": 714,
+    "candidate_reduction_fixtures": 406,
+    "canonical_table_exports": 33,
+    "full_map_rerun": true,
+    "seconds": 19.053,
+    "prespecified_grid_pairs": 462,
+    "strict_boundary_over_integer_improvements": 189,
+    "principal_medium_witnesses": 9,
+    "complete_walk_windows": 126,
+    "strengthened_hierarchy_vectors": 5,
+    "modular_construction_runs": 1350,
+    "direct_coverage_split": [
+      191,
+      74,
+      9
+    ],
+    "transferred_coverage_split": [
+      188,
+      0,
+      0
+    ],
+    "trivial_rows": 21,
+    "binary_window_minima_checked": 4046,
+    "scope": "Finite computation checks; not a replacement for human review of the universal proofs."
+  },
+  "source_hashes": {
+    "src/revision_audit.py": "8ce8baa94aa02b574d9bccc3ea09a530627aba5b117585ef5bdd6b7047ddba98",
+    "src/residual_diagnostics.py": "b98c25492e4407acd32a6dbfd820c3a16c88ad709a4690b508fe4131cb10459a",
+    "src/revision_tables.py": "ce9a725c14e88e3455fb997b5ef64b7a2761420f907d53b2d4a5824e35964e28",
+    "src/final_details_audit.py": "b23f128b5602d643255cc4fa13f3de5e68eb51fddcf7b83d9bb2cb752f423122",
+    "src/constructions/modular_comparison.py": "222db7483de44dbeb1ab4ab237f67597c7bbd4bea2c3def248ec0a17d680170e",
+    "src/reproduce.py": "1f181cbcd5e9462ce22d45fe8559721c793dcea63bb75733932626e8eed723ee",
+    "src/regenerate_tables.py": "11a3292e50b6a9e8bdde2b45c435363d5ce6130d0d6e443ef18c7ebc44eb008d",
+    "src/binary_window_milp.py": "a0fc20a23b9623af57a063c1c0f32fa477e2657c67b222e6dbf8a39051036ad9",
+    "src/risk_closure_audit.py": "4d15b69220f7648866945d26d367fd4dc928dcd401747f25e3340ebee64e4ddd",
+    "src/fourier_comparison.py": "04aa6bb8b4cfccac1f981a4092abd86976c51d005ec737c0fcf53059e160e1c5",
+    "src/fourier_exact_tree.py": "b3e09b6b42cb87f96f848ab5485112d63a73151025b8b89f52dcf8fab3d5791f",
+    "src/fourier_verify.py": "396df43b58017e60a7b5bffcf0bc8d736b5a9e72eaaf55037979aadd482a9c4f",
+    "src/seed_budget_ablation.py": "5680a3046b98e5e07d17aa6fe40530413fc5b9072220d56247edb6e806b413ab",
+    "src/window_scalability.py": "7d49df573ce19f09f1d021a1471fac7d434e3f057a42ecbf1fd5268987a290f1",
+    "src/review_revision_tables.py": "f87f2e2927df65cbcfe3e20f4df8beb553d6b7821b7d42ab32e143501d88de76",
+    "src/extended_audit.py": "84de0c2285a9b2e18d4b9048e01ed28a95d267ddfbd70798a6077299eb53ddf7"
+  },
+  "proof_scope": "Finite computations do not replace independent human review of universal proofs.",
+  "unresolved": [
+    "Universal relation to classical LP projections/duals",
+    "Infinite residual-obstruction family",
+    "Actual Linux execution",
+    "Independent human review of universal mathematical proofs"
+  ],
+  "archived_medium_milp": "Statuses and witnesses checked; not all historical solver jobs freshly rerun",
+  "publication": "Author-authorized public-release preparation only; not yet uploaded or published; no public DOI or actual Git release tag asserted.",
+  "public_release_preparation": {
+    "version": "1.5.0",
+    "prepared_date": "2026-10-12",
+    "licensing_authorization": "Confirmed by the author, including coauthor agreement and authority to license original contributions.",
+    "software_license": "MIT",
+    "original_data_and_documentation_license": "CC-BY-4.0",
+    "third_party_material": "Original rights and terms retained; source-table content and external dependencies are not relicensed.",
+    "repository_url": null,
+    "version_doi": null,
+    "historical_metadata": "The release, source_revision and experiment fields above describe preceding submission revisions, not this public package's publication status.",
+    "scientific_content": "Original data, source code, tests and CSV table values unchanged from the trimmed v1.5 review archive.",
+    "proof_review": "Licensing authorization is not evidence of independent human verification of universal proofs."
+  }
+}

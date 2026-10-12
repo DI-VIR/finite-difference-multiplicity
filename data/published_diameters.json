@@ -1,0 +1,3392 @@
+[
+  {
+    "g": 1,
+    "n": 2,
+    "diameter": 1,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 3,
+    "diameter": 3,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 4,
+    "diameter": 6,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 5,
+    "diameter": 11,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 6,
+    "diameter": 17,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 7,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 8,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 9,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 10,
+    "diameter": 55,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 11,
+    "diameter": 72,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 12,
+    "diameter": 85,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 13,
+    "diameter": 106,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 14,
+    "diameter": 127,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 15,
+    "diameter": 151,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 16,
+    "diameter": 177,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 17,
+    "diameter": 199,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 18,
+    "diameter": 216,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 19,
+    "diameter": 246,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 20,
+    "diameter": 283,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 21,
+    "diameter": 333,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 22,
+    "diameter": 356,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 23,
+    "diameter": 372,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 24,
+    "diameter": 425,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 25,
+    "diameter": 480,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 26,
+    "diameter": 492,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 27,
+    "diameter": 553,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 1,
+    "n": 28,
+    "diameter": 585,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 3,
+    "diameter": 2,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 4,
+    "diameter": 4,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 5,
+    "diameter": 6,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 6,
+    "diameter": 9,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 7,
+    "diameter": 13,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 8,
+    "diameter": 18,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 9,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 10,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 11,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 12,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 13,
+    "diameter": 53,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 14,
+    "diameter": 63,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 15,
+    "diameter": 74,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 16,
+    "diameter": 84,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 2,
+    "n": 17,
+    "diameter": 97,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 4,
+    "diameter": 3,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 5,
+    "diameter": 5,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 6,
+    "diameter": 7,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 7,
+    "diameter": 10,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 8,
+    "diameter": 13,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 9,
+    "diameter": 16,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 10,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 11,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 12,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 13,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 14,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 15,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 16,
+    "diameter": 56,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 17,
+    "diameter": 64,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 3,
+    "n": 18,
+    "diameter": 73,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 5,
+    "diameter": 4,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 6,
+    "diameter": 6,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 7,
+    "diameter": 8,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 8,
+    "diameter": 10,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 9,
+    "diameter": 13,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 10,
+    "diameter": 16,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 11,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 12,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 13,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 14,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 15,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 16,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 17,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 4,
+    "n": 18,
+    "diameter": 55,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 6,
+    "diameter": 5,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 7,
+    "diameter": 7,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 8,
+    "diameter": 9,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 9,
+    "diameter": 11,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 10,
+    "diameter": 14,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 11,
+    "diameter": 16,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 12,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 13,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 14,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 15,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 16,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 17,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 18,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 5,
+    "n": 19,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 7,
+    "diameter": 6,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 8,
+    "diameter": 8,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 9,
+    "diameter": 10,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 10,
+    "diameter": 12,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 11,
+    "diameter": 14,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 12,
+    "diameter": 17,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 13,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 14,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 15,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 16,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 17,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 6,
+    "n": 18,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 8,
+    "diameter": 7,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 9,
+    "diameter": 9,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 10,
+    "diameter": 11,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 11,
+    "diameter": 13,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 12,
+    "diameter": 15,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 13,
+    "diameter": 18,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 14,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 15,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 16,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 17,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 18,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 7,
+    "n": 19,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 9,
+    "diameter": 8,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 10,
+    "diameter": 10,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 11,
+    "diameter": 12,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 12,
+    "diameter": 14,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 13,
+    "diameter": 16,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 14,
+    "diameter": 18,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 15,
+    "diameter": 21,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 16,
+    "diameter": 24,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 17,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 18,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 19,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 8,
+    "n": 20,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 10,
+    "diameter": 9,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 11,
+    "diameter": 11,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 12,
+    "diameter": 13,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 13,
+    "diameter": 15,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 14,
+    "diameter": 17,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 15,
+    "diameter": 19,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 16,
+    "diameter": 22,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 17,
+    "diameter": 24,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 18,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 19,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 20,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 9,
+    "n": 21,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 11,
+    "diameter": 10,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 12,
+    "diameter": 12,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 13,
+    "diameter": 14,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 14,
+    "diameter": 16,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 15,
+    "diameter": 18,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 16,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 17,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 18,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 19,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 20,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 21,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 10,
+    "n": 22,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 12,
+    "diameter": 11,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 13,
+    "diameter": 13,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 14,
+    "diameter": 15,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 15,
+    "diameter": 17,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 16,
+    "diameter": 19,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 17,
+    "diameter": 21,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 18,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 19,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 20,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 21,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 22,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 11,
+    "n": 23,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 13,
+    "diameter": 12,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 14,
+    "diameter": 14,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 15,
+    "diameter": 16,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 16,
+    "diameter": 18,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 17,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 18,
+    "diameter": 22,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 19,
+    "diameter": 24,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 20,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 21,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 22,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 23,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 12,
+    "n": 24,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 14,
+    "diameter": 13,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 15,
+    "diameter": 15,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 16,
+    "diameter": 17,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 17,
+    "diameter": 19,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 18,
+    "diameter": 21,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 19,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 20,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 21,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 22,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 23,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 24,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 13,
+    "n": 25,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 15,
+    "diameter": 14,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 16,
+    "diameter": 16,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 17,
+    "diameter": 18,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 18,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 19,
+    "diameter": 22,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 20,
+    "diameter": 24,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 21,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 22,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 23,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 24,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 25,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 14,
+    "n": 26,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 16,
+    "diameter": 15,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 17,
+    "diameter": 17,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 18,
+    "diameter": 19,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 19,
+    "diameter": 21,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 20,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 21,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 22,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 23,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 24,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 25,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 26,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 15,
+    "n": 27,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 17,
+    "diameter": 16,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 18,
+    "diameter": 18,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 19,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 20,
+    "diameter": 22,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 21,
+    "diameter": 24,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 22,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 23,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 24,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 25,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 26,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 27,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 16,
+    "n": 28,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 18,
+    "diameter": 17,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 19,
+    "diameter": 19,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 20,
+    "diameter": 21,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 21,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 22,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 23,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 24,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 25,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 26,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 27,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 28,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 17,
+    "n": 29,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 19,
+    "diameter": 18,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 20,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 21,
+    "diameter": 22,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 22,
+    "diameter": 24,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 23,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 24,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 25,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 26,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 27,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 28,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 29,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 18,
+    "n": 30,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 20,
+    "diameter": 19,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 21,
+    "diameter": 21,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 22,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 23,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 24,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 25,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 26,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 27,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 28,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 29,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 30,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 19,
+    "n": 31,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 21,
+    "diameter": 20,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 22,
+    "diameter": 22,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 23,
+    "diameter": 24,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 24,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 25,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 26,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 27,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 28,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 29,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 30,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 31,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 20,
+    "n": 32,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 22,
+    "diameter": 21,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 23,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 24,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 25,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 26,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 27,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 28,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 29,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 30,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 31,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 32,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 21,
+    "n": 33,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 23,
+    "diameter": 22,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 24,
+    "diameter": 24,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 25,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 26,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 27,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 28,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 29,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 30,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 31,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 32,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 33,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 22,
+    "n": 34,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 24,
+    "diameter": 23,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 25,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 26,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 27,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 28,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 29,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 30,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 31,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 32,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 33,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 34,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 23,
+    "n": 35,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 25,
+    "diameter": 24,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 26,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 27,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 28,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 29,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 30,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 31,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 32,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 33,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 34,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 35,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 24,
+    "n": 36,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 26,
+    "diameter": 25,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 27,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 28,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 29,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 30,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 31,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 32,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 33,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 34,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 35,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 36,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 25,
+    "n": 37,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 27,
+    "diameter": 26,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 28,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 29,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 30,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 31,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 32,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 33,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 34,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 35,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 36,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 37,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 26,
+    "n": 38,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 28,
+    "diameter": 27,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 29,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 30,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 31,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 32,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 33,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 34,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 35,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 36,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 37,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 38,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 27,
+    "n": 39,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 29,
+    "diameter": 28,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 30,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 31,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 32,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 33,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 34,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 35,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 36,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 37,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 38,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 39,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 28,
+    "n": 40,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 30,
+    "diameter": 29,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 31,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 32,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 33,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 34,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 35,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 36,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 37,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 38,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 39,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 40,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 29,
+    "n": 41,
+    "diameter": 51,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 31,
+    "diameter": 30,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 32,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 33,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 34,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 35,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 36,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 37,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 38,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 39,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 40,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 41,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 30,
+    "n": 42,
+    "diameter": 52,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 32,
+    "diameter": 31,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 33,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 34,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 35,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 36,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 37,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 38,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 39,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 40,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 41,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 42,
+    "diameter": 51,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 31,
+    "n": 43,
+    "diameter": 53,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 33,
+    "diameter": 32,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 34,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 35,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 36,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 37,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 38,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 39,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 40,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 41,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 42,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 43,
+    "diameter": 52,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 32,
+    "n": 44,
+    "diameter": 54,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 34,
+    "diameter": 33,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 35,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 36,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 37,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 38,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 39,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 40,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 41,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 42,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 43,
+    "diameter": 51,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 44,
+    "diameter": 53,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 33,
+    "n": 45,
+    "diameter": 55,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 35,
+    "diameter": 34,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 36,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 37,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 38,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 39,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 40,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 41,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 42,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 43,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 44,
+    "diameter": 52,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 45,
+    "diameter": 54,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 34,
+    "n": 46,
+    "diameter": 56,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 36,
+    "diameter": 35,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 37,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 38,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 39,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 40,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 41,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 42,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 43,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 44,
+    "diameter": 51,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 45,
+    "diameter": 53,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 46,
+    "diameter": 55,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 35,
+    "n": 47,
+    "diameter": 57,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 37,
+    "diameter": 36,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 38,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 39,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 40,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 41,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 42,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 43,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 44,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 45,
+    "diameter": 52,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 46,
+    "diameter": 54,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 47,
+    "diameter": 56,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 36,
+    "n": 48,
+    "diameter": 58,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 38,
+    "diameter": 37,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 39,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 40,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 41,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 42,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 43,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 44,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 45,
+    "diameter": 51,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 46,
+    "diameter": 53,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 47,
+    "diameter": 55,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 48,
+    "diameter": 57,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 37,
+    "n": 49,
+    "diameter": 59,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 39,
+    "diameter": 38,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 40,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 41,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 42,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 43,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 44,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 45,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 46,
+    "diameter": 52,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 47,
+    "diameter": 54,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 48,
+    "diameter": 56,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 49,
+    "diameter": 58,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 38,
+    "n": 50,
+    "diameter": 60,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 40,
+    "diameter": 39,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 41,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 42,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 43,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 44,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 45,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 46,
+    "diameter": 51,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 47,
+    "diameter": 53,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 48,
+    "diameter": 55,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 49,
+    "diameter": 57,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 50,
+    "diameter": 59,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 39,
+    "n": 51,
+    "diameter": 61,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 41,
+    "diameter": 40,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 42,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 43,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 44,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 45,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 46,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 47,
+    "diameter": 52,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 48,
+    "diameter": 54,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 49,
+    "diameter": 56,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 50,
+    "diameter": 58,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 51,
+    "diameter": 60,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 40,
+    "n": 52,
+    "diameter": 62,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 42,
+    "diameter": 41,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 43,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 44,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 45,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 46,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 47,
+    "diameter": 51,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 48,
+    "diameter": 53,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 49,
+    "diameter": 55,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 50,
+    "diameter": 57,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 51,
+    "diameter": 59,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 52,
+    "diameter": 61,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 41,
+    "n": 53,
+    "diameter": 63,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 43,
+    "diameter": 42,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 44,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 45,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 46,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 47,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 48,
+    "diameter": 52,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 49,
+    "diameter": 54,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 50,
+    "diameter": 56,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 51,
+    "diameter": 58,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 52,
+    "diameter": 60,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 53,
+    "diameter": 62,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 42,
+    "n": 54,
+    "diameter": 64,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 44,
+    "diameter": 43,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 45,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 46,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 47,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 48,
+    "diameter": 51,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 49,
+    "diameter": 53,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 50,
+    "diameter": 55,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 51,
+    "diameter": 57,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 52,
+    "diameter": 59,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 53,
+    "diameter": 61,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 54,
+    "diameter": 63,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 43,
+    "n": 55,
+    "diameter": 65,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 45,
+    "diameter": 44,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 46,
+    "diameter": 46,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 47,
+    "diameter": 48,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 48,
+    "diameter": 50,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 49,
+    "diameter": 52,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 50,
+    "diameter": 54,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 51,
+    "diameter": 56,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 52,
+    "diameter": 58,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 53,
+    "diameter": 60,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 54,
+    "diameter": 62,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 55,
+    "diameter": 64,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 44,
+    "n": 56,
+    "diameter": 66,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 46,
+    "diameter": 45,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 47,
+    "diameter": 47,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 48,
+    "diameter": 49,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 49,
+    "diameter": 51,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 50,
+    "diameter": 53,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 51,
+    "diameter": 55,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 52,
+    "diameter": 57,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 53,
+    "diameter": 59,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 54,
+    "diameter": 61,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 55,
+    "diameter": 63,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 56,
+    "diameter": 65,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  },
+  {
+    "g": 45,
+    "n": 57,
+    "diameter": 67,
+    "source": "https://arxiv.org/html/2605.14229v1#S1.T1"
+  }
+]

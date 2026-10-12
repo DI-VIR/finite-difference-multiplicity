@@ -1,0 +1,1622 @@
+[
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Paley",
+    "budget": 0,
+    "runs": 30,
+    "mean": 5,
+    "SD": 0.0,
+    "best": 5
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Paley",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Paley",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Singer",
+    "budget": 0,
+    "runs": 30,
+    "mean": 7,
+    "SD": 0.0,
+    "best": 7
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Singer",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Singer",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Ruzsa-Spence",
+    "budget": 0,
+    "runs": 30,
+    "mean": 9,
+    "SD": 0.0,
+    "best": 9
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Ruzsa-Spence",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Ruzsa-Spence",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "RDS",
+    "budget": 0,
+    "runs": 30,
+    "mean": 5,
+    "SD": 0.0,
+    "best": 5
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "RDS",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "RDS",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Random",
+    "budget": 0,
+    "runs": 30,
+    "mean": 6.033333333333333,
+    "SD": 0.8087168778415269,
+    "best": 5
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Random",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Random",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Random-SA",
+    "budget": 0,
+    "runs": 30,
+    "mean": 6.033333333333333,
+    "SD": 0.8087168778415269,
+    "best": 5
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Random-SA",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "family": "Random-SA",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 4,
+    "SD": 0.0,
+    "best": 4
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Paley",
+    "budget": 0,
+    "runs": 30,
+    "mean": 7,
+    "SD": 0.0,
+    "best": 7
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Paley",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 5.866666666666666,
+    "SD": 0.3457459036417604,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Paley",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 5.733333333333333,
+    "SD": 0.4497764451088036,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Singer",
+    "budget": 0,
+    "runs": 30,
+    "mean": 10,
+    "SD": 0.0,
+    "best": 10
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Singer",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 5.966666666666667,
+    "SD": 0.18257418583505536,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Singer",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 5.633333333333334,
+    "SD": 0.490132517853561,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Ruzsa-Spence",
+    "budget": 0,
+    "runs": 30,
+    "mean": 13,
+    "SD": 0.0,
+    "best": 13
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Ruzsa-Spence",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 5.966666666666667,
+    "SD": 0.18257418583505536,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Ruzsa-Spence",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 5.466666666666667,
+    "SD": 0.5074162634049248,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "RDS",
+    "budget": 0,
+    "runs": 30,
+    "mean": 12,
+    "SD": 0.0,
+    "best": 12
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "RDS",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 5.866666666666666,
+    "SD": 0.3457459036417604,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "RDS",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 5.466666666666667,
+    "SD": 0.5074162634049248,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Random",
+    "budget": 0,
+    "runs": 30,
+    "mean": 7.9,
+    "SD": 0.7588557629520364,
+    "best": 7
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Random",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 5.966666666666667,
+    "SD": 0.18257418583505536,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Random",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 5.533333333333333,
+    "SD": 0.5074162634049248,
+    "best": 5
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Random-SA",
+    "budget": 0,
+    "runs": 30,
+    "mean": 7.9,
+    "SD": 0.7588557629520364,
+    "best": 7
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Random-SA",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 6,
+    "SD": 0.0,
+    "best": 6
+  },
+  {
+    "L": 32,
+    "n": 15,
+    "family": "Random-SA",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 5.8,
+    "SD": 0.4068381021724862,
+    "best": 5
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Paley",
+    "budget": 0,
+    "runs": 30,
+    "mean": 9,
+    "SD": 0.0,
+    "best": 9
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Paley",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 7.433333333333334,
+    "SD": 0.5040069329937309,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Paley",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 7,
+    "SD": 0.0,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Singer",
+    "budget": 0,
+    "runs": 30,
+    "mean": 11,
+    "SD": 0.0,
+    "best": 11
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Singer",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 7.533333333333333,
+    "SD": 0.5074162634049248,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Singer",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 7,
+    "SD": 0.0,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Ruzsa-Spence",
+    "budget": 0,
+    "runs": 30,
+    "mean": 15,
+    "SD": 0.0,
+    "best": 15
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Ruzsa-Spence",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 7.633333333333334,
+    "SD": 0.490132517853561,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Ruzsa-Spence",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 7,
+    "SD": 0.0,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "RDS",
+    "budget": 0,
+    "runs": 30,
+    "mean": 9,
+    "SD": 0.0,
+    "best": 9
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "RDS",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 7.633333333333334,
+    "SD": 0.490132517853561,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "RDS",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 7,
+    "SD": 0.0,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Random",
+    "budget": 0,
+    "runs": 30,
+    "mean": 10.2,
+    "SD": 1.1861267013789623,
+    "best": 8
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Random",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 7.466666666666667,
+    "SD": 0.5074162634049248,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Random",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 7,
+    "SD": 0.0,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Random-SA",
+    "budget": 0,
+    "runs": 30,
+    "mean": 10.2,
+    "SD": 1.1861267013789623,
+    "best": 8
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Random-SA",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 7.866666666666666,
+    "SD": 0.3457459036417604,
+    "best": 7
+  },
+  {
+    "L": 40,
+    "n": 19,
+    "family": "Random-SA",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 7,
+    "SD": 0.0,
+    "best": 7
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Paley",
+    "budget": 0,
+    "runs": 30,
+    "mean": 11,
+    "SD": 0.0,
+    "best": 11
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Paley",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 8.7,
+    "SD": 0.466091599699399,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Paley",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 8,
+    "SD": 0.0,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Singer",
+    "budget": 0,
+    "runs": 30,
+    "mean": 14,
+    "SD": 0.0,
+    "best": 14
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Singer",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 8.533333333333333,
+    "SD": 0.5074162634049248,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Singer",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 8.033333333333333,
+    "SD": 0.18257418583505536,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Ruzsa-Spence",
+    "budget": 0,
+    "runs": 30,
+    "mean": 18,
+    "SD": 0.0,
+    "best": 18
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Ruzsa-Spence",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 8.766666666666667,
+    "SD": 0.4301830671520763,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Ruzsa-Spence",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 8,
+    "SD": 0.0,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "RDS",
+    "budget": 0,
+    "runs": 30,
+    "mean": 11,
+    "SD": 0.0,
+    "best": 11
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "RDS",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 8.5,
+    "SD": 0.5085476277156078,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "RDS",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 8,
+    "SD": 0.0,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Random",
+    "budget": 0,
+    "runs": 30,
+    "mean": 11.533333333333333,
+    "SD": 1.2521246311585852,
+    "best": 10
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Random",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 8.766666666666667,
+    "SD": 0.4301830671520763,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Random",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 8,
+    "SD": 0.0,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Random-SA",
+    "budget": 0,
+    "runs": 30,
+    "mean": 11.533333333333333,
+    "SD": 1.2521246311585852,
+    "best": 10
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Random-SA",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 8.933333333333334,
+    "SD": 0.2537081317024624,
+    "best": 8
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "family": "Random-SA",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 8.033333333333333,
+    "SD": 0.18257418583505536,
+    "best": 8
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Paley",
+    "budget": 0,
+    "runs": 30,
+    "mean": 14,
+    "SD": 0.0,
+    "best": 14
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Paley",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 11.4,
+    "SD": 0.49827287912243984,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Paley",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 11,
+    "SD": 0.0,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Singer",
+    "budget": 0,
+    "runs": 30,
+    "mean": 16,
+    "SD": 0.0,
+    "best": 16
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Singer",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 11.166666666666666,
+    "SD": 0.3790490217894517,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Singer",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 11,
+    "SD": 0.0,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Ruzsa-Spence",
+    "budget": 0,
+    "runs": 30,
+    "mean": 27,
+    "SD": 0.0,
+    "best": 27
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Ruzsa-Spence",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 11.4,
+    "SD": 0.49827287912243984,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Ruzsa-Spence",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 11,
+    "SD": 0.0,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "RDS",
+    "budget": 0,
+    "runs": 30,
+    "mean": 14,
+    "SD": 0.0,
+    "best": 14
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "RDS",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 11.466666666666667,
+    "SD": 0.5074162634049248,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "RDS",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 11,
+    "SD": 0.0,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Random",
+    "budget": 0,
+    "runs": 30,
+    "mean": 15.033333333333333,
+    "SD": 0.8899179866642238,
+    "best": 14
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Random",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 11.4,
+    "SD": 0.49827287912243984,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Random",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 11,
+    "SD": 0.0,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Random-SA",
+    "budget": 0,
+    "runs": 30,
+    "mean": 15.033333333333333,
+    "SD": 0.8899179866642238,
+    "best": 14
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Random-SA",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 11.9,
+    "SD": 0.30512857662936466,
+    "best": 11
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "family": "Random-SA",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 11,
+    "SD": 0.0,
+    "best": 11
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Paley",
+    "budget": 0,
+    "runs": 30,
+    "mean": 19,
+    "SD": 0.0,
+    "best": 19
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Paley",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 15.033333333333333,
+    "SD": 0.18257418583505536,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Paley",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 15,
+    "SD": 0.0,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Singer",
+    "budget": 0,
+    "runs": 30,
+    "mean": 28,
+    "SD": 0.0,
+    "best": 28
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Singer",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 15.033333333333333,
+    "SD": 0.18257418583505536,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Singer",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 15,
+    "SD": 0.0,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Ruzsa-Spence",
+    "budget": 0,
+    "runs": 30,
+    "mean": 31,
+    "SD": 0.0,
+    "best": 31
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Ruzsa-Spence",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 15,
+    "SD": 0.0,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Ruzsa-Spence",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 15,
+    "SD": 0.0,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "RDS",
+    "budget": 0,
+    "runs": 30,
+    "mean": 18,
+    "SD": 0.0,
+    "best": 18
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "RDS",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 15,
+    "SD": 0.0,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "RDS",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 15,
+    "SD": 0.0,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Random",
+    "budget": 0,
+    "runs": 30,
+    "mean": 19.333333333333332,
+    "SD": 1.2685406585123122,
+    "best": 17
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Random",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 15.1,
+    "SD": 0.30512857662936466,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Random",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 15,
+    "SD": 0.0,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Random-SA",
+    "budget": 0,
+    "runs": 30,
+    "mean": 19.333333333333332,
+    "SD": 1.2685406585123122,
+    "best": 17
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Random-SA",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 15.766666666666667,
+    "SD": 0.4301830671520763,
+    "best": 15
+  },
+  {
+    "L": 80,
+    "n": 37,
+    "family": "Random-SA",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 15,
+    "SD": 0.0,
+    "best": 15
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Paley",
+    "budget": 0,
+    "runs": 30,
+    "mean": 35,
+    "SD": 0.0,
+    "best": 35
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Paley",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 29.266666666666666,
+    "SD": 0.4497764451088036,
+    "best": 29
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Paley",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 28.933333333333334,
+    "SD": 0.2537081317024624,
+    "best": 28
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Singer",
+    "budget": 0,
+    "runs": 30,
+    "mean": 43,
+    "SD": 0.0,
+    "best": 43
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Singer",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 29.3,
+    "SD": 0.466091599699399,
+    "best": 29
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Singer",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 28.966666666666665,
+    "SD": 0.18257418583505536,
+    "best": 28
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Ruzsa-Spence",
+    "budget": 0,
+    "runs": 30,
+    "mean": 63,
+    "SD": 0.0,
+    "best": 63
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Ruzsa-Spence",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 29.233333333333334,
+    "SD": 0.4301830671520763,
+    "best": 29
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Ruzsa-Spence",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 29,
+    "SD": 0.0,
+    "best": 29
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "RDS",
+    "budget": 0,
+    "runs": 30,
+    "mean": 35,
+    "SD": 0.0,
+    "best": 35
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "RDS",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 29.2,
+    "SD": 0.4068381021724862,
+    "best": 29
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "RDS",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 28.933333333333334,
+    "SD": 0.2537081317024624,
+    "best": 28
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Random",
+    "budget": 0,
+    "runs": 30,
+    "mean": 35.36666666666667,
+    "SD": 1.711690701461939,
+    "best": 32
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Random",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 29.233333333333334,
+    "SD": 0.4301830671520763,
+    "best": 29
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Random",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 28.966666666666665,
+    "SD": 0.18257418583505536,
+    "best": 28
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Random-SA",
+    "budget": 0,
+    "runs": 30,
+    "mean": 35.36666666666667,
+    "SD": 1.711690701461939,
+    "best": 32
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Random-SA",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 30.1,
+    "SD": 0.30512857662936466,
+    "best": 30
+  },
+  {
+    "L": 160,
+    "n": 71,
+    "family": "Random-SA",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 29,
+    "SD": 0.0,
+    "best": 29
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Paley",
+    "budget": 0,
+    "runs": 30,
+    "mean": 59,
+    "SD": 0.0,
+    "best": 59
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Paley",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 51.56666666666667,
+    "SD": 0.5040069329937309,
+    "best": 51
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Paley",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 50.96666666666667,
+    "SD": 0.18257418583505536,
+    "best": 50
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Singer",
+    "budget": 0,
+    "runs": 30,
+    "mean": 64,
+    "SD": 0.0,
+    "best": 64
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Singer",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 51.766666666666666,
+    "SD": 0.4301830671520763,
+    "best": 51
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Singer",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 50.96666666666667,
+    "SD": 0.18257418583505536,
+    "best": 50
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Ruzsa-Spence",
+    "budget": 0,
+    "runs": 30,
+    "mean": 114,
+    "SD": 0.0,
+    "best": 114
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Ruzsa-Spence",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 51.6,
+    "SD": 0.49827287912243984,
+    "best": 51
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Ruzsa-Spence",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 50.93333333333333,
+    "SD": 0.2537081317024624,
+    "best": 50
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "RDS",
+    "budget": 0,
+    "runs": 30,
+    "mean": 58,
+    "SD": 0.0,
+    "best": 58
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "RDS",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 51.6,
+    "SD": 0.49827287912243984,
+    "best": 51
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "RDS",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 51,
+    "SD": 0.0,
+    "best": 51
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Random",
+    "budget": 0,
+    "runs": 30,
+    "mean": 59.63333333333333,
+    "SD": 2.2966742571984735,
+    "best": 55
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Random",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 51.53333333333333,
+    "SD": 0.5074162634049248,
+    "best": 51
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Random",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 50.93333333333333,
+    "SD": 0.2537081317024624,
+    "best": 50
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Random-SA",
+    "budget": 0,
+    "runs": 30,
+    "mean": 59.63333333333333,
+    "SD": 2.2966742571984735,
+    "best": 55
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Random-SA",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 52.96666666666667,
+    "SD": 0.319841914974746,
+    "best": 52
+  },
+  {
+    "L": 256,
+    "n": 118,
+    "family": "Random-SA",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 50.96666666666667,
+    "SD": 0.319841914974746,
+    "best": 50
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Paley",
+    "budget": 0,
+    "runs": 30,
+    "mean": 71,
+    "SD": 0.0,
+    "best": 71
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Paley",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 60.1,
+    "SD": 0.40257789993644877,
+    "best": 59
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Paley",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 59.43333333333333,
+    "SD": 0.5040069329937309,
+    "best": 59
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Singer",
+    "budget": 0,
+    "runs": 30,
+    "mean": 71,
+    "SD": 0.0,
+    "best": 71
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Singer",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 60.166666666666664,
+    "SD": 0.3790490217894517,
+    "best": 60
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Singer",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 59.63333333333333,
+    "SD": 0.490132517853561,
+    "best": 59
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Ruzsa-Spence",
+    "budget": 0,
+    "runs": 30,
+    "mean": 132,
+    "SD": 0.0,
+    "best": 132
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Ruzsa-Spence",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 60.3,
+    "SD": 0.466091599699399,
+    "best": 60
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Ruzsa-Spence",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 59.5,
+    "SD": 0.5085476277156078,
+    "best": 59
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "RDS",
+    "budget": 0,
+    "runs": 30,
+    "mean": 69,
+    "SD": 0.0,
+    "best": 69
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "RDS",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 60.06666666666667,
+    "SD": 0.3651483716701107,
+    "best": 59
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "RDS",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 59.6,
+    "SD": 0.49827287912243984,
+    "best": 59
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Random",
+    "budget": 0,
+    "runs": 30,
+    "mean": 69.13333333333334,
+    "SD": 2.3302113761354923,
+    "best": 64
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Random",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 60.2,
+    "SD": 0.4842341981115023,
+    "best": 59
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Random",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 59.5,
+    "SD": 0.5085476277156078,
+    "best": 59
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Random-SA",
+    "budget": 0,
+    "runs": 30,
+    "mean": 69.13333333333334,
+    "SD": 2.3302113761354923,
+    "best": 64
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Random-SA",
+    "budget": 3000,
+    "runs": 30,
+    "mean": 61.93333333333333,
+    "SD": 0.3651483716701107,
+    "best": 61
+  },
+  {
+    "L": 320,
+    "n": 142,
+    "family": "Random-SA",
+    "budget": 30000,
+    "runs": 30,
+    "mean": 59.733333333333334,
+    "SD": 0.4497764451088036,
+    "best": 59
+  }
+]

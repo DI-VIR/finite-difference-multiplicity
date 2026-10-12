@@ -1,0 +1,5 @@
+{
+  "definition": "B_joint = min max_d r_d over integer r with the pair budget and every window constraint",
+  "check": "feasibility at m = max(B_bd, B_ph); feasible means B_joint attains that value",
+  "complement": "B_bd2 adds the lower bounds a_x >= h_x - (L-n); valid but not adopted"
+}

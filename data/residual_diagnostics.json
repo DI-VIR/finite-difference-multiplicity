@@ -1,0 +1,296 @@
+[
+  {
+    "L": 17,
+    "n": 6,
+    "cap": 1,
+    "old_odd_mass": 7,
+    "possible_odd_mass": [
+      0,
+      5,
+      8,
+      9
+    ],
+    "old_parity_feasible": false,
+    "old_tail_violations": [],
+    "strengthened_status": "FEASIBLE",
+    "strengthened_witness": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "solver_cases": [
+      {
+        "odd_mass": 0,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 5,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 8,
+        "status": 0,
+        "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+      }
+    ]
+  },
+  {
+    "L": 18,
+    "n": 8,
+    "cap": 2,
+    "old_odd_mass": 13,
+    "possible_odd_mass": [
+      0,
+      7,
+      12,
+      15,
+      16
+    ],
+    "old_parity_feasible": false,
+    "old_tail_violations": [],
+    "strengthened_status": "FEASIBLE",
+    "strengthened_witness": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      0,
+      2,
+      0,
+      2,
+      2,
+      2,
+      1
+    ],
+    "solver_cases": [
+      {
+        "odd_mass": 0,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 7,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 12,
+        "status": 0,
+        "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+      }
+    ]
+  },
+  {
+    "L": 20,
+    "n": 11,
+    "cap": 4,
+    "old_odd_mass": 28,
+    "possible_odd_mass": [
+      0,
+      10,
+      18,
+      24,
+      28,
+      30
+    ],
+    "old_parity_feasible": true,
+    "old_tail_violations": [
+      17,
+      18
+    ],
+    "strengthened_status": "FEASIBLE",
+    "strengthened_witness": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      0,
+      4,
+      0,
+      4,
+      1,
+      4,
+      4,
+      3,
+      3,
+      0,
+      0
+    ],
+    "solver_cases": [
+      {
+        "odd_mass": 0,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 10,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 18,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 24,
+        "status": 0,
+        "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+      }
+    ]
+  },
+  {
+    "L": 20,
+    "n": 12,
+    "cap": 5,
+    "old_odd_mass": 35,
+    "possible_odd_mass": [
+      0,
+      11,
+      20,
+      27,
+      32,
+      35,
+      36
+    ],
+    "old_parity_feasible": true,
+    "old_tail_violations": [
+      16,
+      17,
+      18
+    ],
+    "strengthened_status": "FEASIBLE",
+    "strengthened_witness": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      3,
+      5,
+      0,
+      5,
+      5,
+      5,
+      0,
+      5,
+      1,
+      4,
+      3,
+      0,
+      0
+    ],
+    "solver_cases": [
+      {
+        "odd_mass": 0,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 11,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 20,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 27,
+        "status": 0,
+        "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+      }
+    ]
+  },
+  {
+    "L": 23,
+    "n": 9,
+    "cap": 2,
+    "old_odd_mass": 18,
+    "possible_odd_mass": [
+      0,
+      8,
+      14,
+      18,
+      20
+    ],
+    "old_parity_feasible": true,
+    "old_tail_violations": [
+      22
+    ],
+    "strengthened_status": "FEASIBLE",
+    "strengthened_witness": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      0,
+      2,
+      0,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "solver_cases": [
+      {
+        "odd_mass": 0,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 8,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 14,
+        "status": 2,
+        "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)"
+      },
+      {
+        "odd_mass": 18,
+        "status": 0,
+        "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,439 @@
+{
+  "summary": {
+    "pairs": 462,
+    "B_bd_stronger": 379,
+    "equal": 74,
+    "B_bd_weaker": 9,
+    "B_comb_strictly_improves": 9,
+    "mean_difference": 16.242424242424242
+  },
+  "strata": [
+    {
+      "region": "n<20",
+      "pairs": 101,
+      "B_bd_stronger": 43,
+      "equal": 49,
+      "B_bd_weaker": 9,
+      "mean_difference": 0.337
+    },
+    {
+      "region": "20<=n<40",
+      "pairs": 106,
+      "B_bd_stronger": 81,
+      "equal": 25,
+      "B_bd_weaker": 0,
+      "mean_difference": 3.349
+    },
+    {
+      "region": "n>=40",
+      "pairs": 255,
+      "B_bd_stronger": 255,
+      "equal": 0,
+      "B_bd_weaker": 0,
+      "mean_difference": 27.902
+    },
+    {
+      "region": "table has k=n",
+      "pairs": 274,
+      "B_bd_stronger": 191,
+      "equal": 74,
+      "B_bd_weaker": 9,
+      "mean_difference": 4.164
+    },
+    {
+      "region": "monotone-excluded only",
+      "pairs": 188,
+      "B_bd_stronger": 188,
+      "equal": 0,
+      "B_bd_weaker": 0,
+      "mean_difference": 33.846
+    }
+  ],
+  "reverse": [
+    {
+      "L": 24,
+      "n": 7,
+      "B_bd": 1,
+      "B_prior": 2,
+      "B_comb": 2,
+      "excluded_g": [
+        1
+      ],
+      "driving_cell": "G(1,7)=25 > L-1=23",
+      "monotone_cells": "G(1,7)=25",
+      "exact_Delta": 2,
+      "enumeration_complete": true,
+      "sets_explored": 1476,
+      "verified": true
+    },
+    {
+      "L": 28,
+      "n": 13,
+      "B_bd": 4,
+      "B_prior": 5,
+      "B_comb": 5,
+      "excluded_g": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "driving_cell": "G(1,8)=34 > L-1=27",
+      "monotone_cells": "G(1,8)=34; G(2,10)=29; G(3,12)=30; G(4,13)=28",
+      "exact_Delta": null,
+      "enumeration_complete": false,
+      "sets_explored": 0,
+      "verified": true
+    },
+    {
+      "L": 36,
+      "n": 11,
+      "B_bd": 2,
+      "B_prior": 3,
+      "B_comb": 3,
+      "excluded_g": [
+        1,
+        2
+      ],
+      "driving_cell": "G(1,9)=44 > L-1=35",
+      "monotone_cells": "G(1,9)=44; G(2,11)=36",
+      "exact_Delta": null,
+      "enumeration_complete": false,
+      "sets_explored": 0,
+      "verified": true
+    },
+    {
+      "L": 44,
+      "n": 9,
+      "B_bd": 1,
+      "B_prior": 2,
+      "B_comb": 2,
+      "excluded_g": [
+        1
+      ],
+      "driving_cell": "G(1,9)=44 > L-1=43",
+      "monotone_cells": "G(1,9)=44",
+      "exact_Delta": null,
+      "enumeration_complete": false,
+      "sets_explored": 0,
+      "verified": true
+    },
+    {
+      "L": 80,
+      "n": 16,
+      "B_bd": 2,
+      "B_prior": 3,
+      "B_comb": 3,
+      "excluded_g": [
+        1,
+        2
+      ],
+      "driving_cell": "G(1,12)=85 > L-1=79",
+      "monotone_cells": "G(1,12)=85; G(2,16)=84",
+      "exact_Delta": null,
+      "enumeration_complete": false,
+      "sets_explored": 0,
+      "verified": true
+    },
+    {
+      "L": 148,
+      "n": 15,
+      "B_bd": 1,
+      "B_prior": 2,
+      "B_comb": 2,
+      "excluded_g": [
+        1
+      ],
+      "driving_cell": "G(1,15)=151 > L-1=147",
+      "monotone_cells": "G(1,15)=151",
+      "exact_Delta": null,
+      "enumeration_complete": false,
+      "sets_explored": 0,
+      "verified": true
+    },
+    {
+      "L": 156,
+      "n": 16,
+      "B_bd": 1,
+      "B_prior": 2,
+      "B_comb": 2,
+      "excluded_g": [
+        1
+      ],
+      "driving_cell": "G(1,16)=177 > L-1=155",
+      "monotone_cells": "G(1,16)=177",
+      "exact_Delta": null,
+      "enumeration_complete": false,
+      "sets_explored": 0,
+      "verified": true
+    },
+    {
+      "L": 160,
+      "n": 16,
+      "B_bd": 1,
+      "B_prior": 2,
+      "B_comb": 2,
+      "excluded_g": [
+        1
+      ],
+      "driving_cell": "G(1,16)=177 > L-1=159",
+      "monotone_cells": "G(1,16)=177",
+      "exact_Delta": null,
+      "enumeration_complete": false,
+      "sets_explored": 0,
+      "verified": true
+    },
+    {
+      "L": 164,
+      "n": 16,
+      "B_bd": 1,
+      "B_prior": 2,
+      "B_comb": 2,
+      "excluded_g": [
+        1
+      ],
+      "driving_cell": "G(1,16)=177 > L-1=163",
+      "monotone_cells": "G(1,16)=177",
+      "exact_Delta": null,
+      "enumeration_complete": false,
+      "sets_explored": 0,
+      "verified": true
+    }
+  ],
+  "small": [
+    {
+      "L": 16,
+      "n": 2,
+      "B_bd": 1,
+      "B_prior": 0,
+      "B_comb": 1,
+      "exact_Delta": 1,
+      "gap_bd": 0,
+      "gap_prior": 1,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 1
+    },
+    {
+      "L": 16,
+      "n": 3,
+      "B_bd": 1,
+      "B_prior": 0,
+      "B_comb": 1,
+      "exact_Delta": 1,
+      "gap_bd": 0,
+      "gap_prior": 1,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 2
+    },
+    {
+      "L": 16,
+      "n": 5,
+      "B_bd": 1,
+      "B_prior": 0,
+      "B_comb": 1,
+      "exact_Delta": 1,
+      "gap_bd": 0,
+      "gap_prior": 1,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 113
+    },
+    {
+      "L": 16,
+      "n": 6,
+      "B_bd": 2,
+      "B_prior": 2,
+      "B_comb": 2,
+      "exact_Delta": 2,
+      "gap_bd": 0,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 89
+    },
+    {
+      "L": 16,
+      "n": 7,
+      "B_bd": 2,
+      "B_prior": 2,
+      "B_comb": 2,
+      "exact_Delta": 2,
+      "gap_bd": 0,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 442
+    },
+    {
+      "L": 16,
+      "n": 8,
+      "B_bd": 3,
+      "B_prior": 3,
+      "B_comb": 3,
+      "exact_Delta": 3,
+      "gap_bd": 0,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 328
+    },
+    {
+      "L": 20,
+      "n": 2,
+      "B_bd": 1,
+      "B_prior": 0,
+      "B_comb": 1,
+      "exact_Delta": 1,
+      "gap_bd": 0,
+      "gap_prior": 1,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 1
+    },
+    {
+      "L": 20,
+      "n": 4,
+      "B_bd": 1,
+      "B_prior": 0,
+      "B_comb": 1,
+      "exact_Delta": 1,
+      "gap_bd": 0,
+      "gap_prior": 1,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 21
+    },
+    {
+      "L": 20,
+      "n": 6,
+      "B_bd": 1,
+      "B_prior": 0,
+      "B_comb": 1,
+      "exact_Delta": 1,
+      "gap_bd": 0,
+      "gap_prior": 1,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 1053
+    },
+    {
+      "L": 20,
+      "n": 8,
+      "B_bd": 2,
+      "B_prior": 2,
+      "B_comb": 2,
+      "exact_Delta": 2,
+      "gap_bd": 0,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 3830
+    },
+    {
+      "L": 20,
+      "n": 9,
+      "B_bd": 3,
+      "B_prior": 3,
+      "B_comb": 3,
+      "exact_Delta": 3,
+      "gap_bd": 0,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 2689
+    },
+    {
+      "L": 20,
+      "n": 10,
+      "B_bd": 4,
+      "B_prior": 4,
+      "B_comb": 4,
+      "exact_Delta": 4,
+      "gap_bd": 0,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 3551
+    },
+    {
+      "L": 24,
+      "n": 2,
+      "B_bd": 1,
+      "B_prior": 0,
+      "B_comb": 1,
+      "exact_Delta": 1,
+      "gap_bd": 0,
+      "gap_prior": 1,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 1
+    },
+    {
+      "L": 24,
+      "n": 5,
+      "B_bd": 1,
+      "B_prior": 0,
+      "B_comb": 1,
+      "exact_Delta": 1,
+      "gap_bd": 0,
+      "gap_prior": 1,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 269
+    },
+    {
+      "L": 24,
+      "n": 7,
+      "B_bd": 1,
+      "B_prior": 2,
+      "B_comb": 2,
+      "exact_Delta": 2,
+      "gap_bd": 1,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 1476
+    },
+    {
+      "L": 24,
+      "n": 10,
+      "B_bd": 3,
+      "B_prior": 3,
+      "B_comb": 3,
+      "exact_Delta": 3,
+      "gap_bd": 0,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 28358
+    },
+    {
+      "L": 24,
+      "n": 11,
+      "B_bd": 4,
+      "B_prior": 4,
+      "B_comb": 4,
+      "exact_Delta": 4,
+      "gap_bd": 0,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 35865
+    },
+    {
+      "L": 24,
+      "n": 12,
+      "B_bd": 4,
+      "B_prior": 4,
+      "B_comb": 4,
+      "exact_Delta": 4,
+      "gap_bd": 0,
+      "gap_prior": 0,
+      "gap_comb": 0,
+      "enumeration_complete": true,
+      "sets_explored": 228656
+    }
+  ]
+}

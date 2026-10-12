@@ -1,0 +1,5 @@
+{
+  "definition": "B_bd closed form; B_walk = capacity + |increment|<=1 + endpoints; B_real = exact minimum over all 2^L binary vectors; B_joint_real = LP with every window inequality from Q_real plus the pair budget",
+  "enumeration": "complete over all 2^L subsets, L = 4..24, no sampling",
+  "chain": "B_bd <= B_walk <= B_real <= B_joint_real <= Delta"
+}

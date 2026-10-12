@@ -1,0 +1,5 @@
+{
+  "definition": "F_g(L) = largest n with Delta(L,n) <= g, i.e. the largest cardinality of a finite B_2[g] set in an interval of L points",
+  "identity": "Delta(L,n) = min{g : F_g(L) >= n}",
+  "enumeration": "exhaustive over all 2^L subsets"
+}

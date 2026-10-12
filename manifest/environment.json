@@ -1,0 +1,15 @@
+{
+  "python": "3.12.7",
+  "os": "Windows-11-10.0.26200-SP0",
+  "dependencies": {
+    "numpy": "2.2.6",
+    "scipy": "1.16.3",
+    "sympy": "1.14.0"
+  },
+  "highs": "1.8.0",
+  "tested_platforms": [
+    "Windows"
+  ],
+  "linux_execution": "NOT_RUN",
+  "captured_utc": "2026-10-04T17:20:03.497698+00:00"
+}

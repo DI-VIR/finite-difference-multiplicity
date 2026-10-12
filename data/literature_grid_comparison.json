@@ -1,0 +1,5152 @@
+[
+  {
+    "L": 16,
+    "n": 2,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 16,
+    "n": 3,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 16,
+    "n": 5,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 16,
+    "n": 6,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 16,
+    "n": 7,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 16,
+    "n": 8,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 20,
+    "n": 2,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 20,
+    "n": 4,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 20,
+    "n": 6,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 20,
+    "n": 8,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 20,
+    "n": 9,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 20,
+    "n": 10,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 24,
+    "n": 2,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 24,
+    "n": 5,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 24,
+    "n": 7,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 24,
+    "n": 10,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 24,
+    "n": 11,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 24,
+    "n": 12,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 28,
+    "n": 3,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 28,
+    "n": 6,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 28,
+    "n": 8,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 28,
+    "n": 11,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 28,
+    "n": 13,
+    "table_lower": 5,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 28,
+    "n": 14,
+    "table_lower": 5,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 32,
+    "n": 3,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 32,
+    "n": 6,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 32,
+    "n": 10,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 32,
+    "n": 13,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 32,
+    "n": 14,
+    "table_lower": 5,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 32,
+    "n": 16,
+    "table_lower": 6,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 36,
+    "n": 4,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 36,
+    "n": 7,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 36,
+    "n": 11,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 36,
+    "n": 14,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 36,
+    "n": 16,
+    "table_lower": 5,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 36,
+    "n": 18,
+    "table_lower": 7,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 40,
+    "n": 4,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 40,
+    "n": 8,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 40,
+    "n": 12,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 40,
+    "n": 16,
+    "table_lower": 5,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 40,
+    "n": 18,
+    "table_lower": 6,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 40,
+    "n": 20,
+    "table_lower": 6,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 44,
+    "n": 4,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 44,
+    "n": 9,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 44,
+    "n": 13,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 44,
+    "n": 18,
+    "table_lower": 6,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 44,
+    "n": 20,
+    "table_lower": 6,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 44,
+    "n": 22,
+    "table_lower": 6,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 48,
+    "n": 5,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 48,
+    "n": 10,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 48,
+    "n": 14,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 48,
+    "n": 19,
+    "table_lower": 6,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 48,
+    "n": 22,
+    "table_lower": 6,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 48,
+    "n": 24,
+    "table_lower": 6,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 52,
+    "n": 5,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 52,
+    "n": 10,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 52,
+    "n": 16,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 52,
+    "n": 21,
+    "table_lower": 5,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 52,
+    "n": 23,
+    "table_lower": 5,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 52,
+    "n": 26,
+    "table_lower": 5,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 56,
+    "n": 6,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 56,
+    "n": 11,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 56,
+    "n": 17,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 56,
+    "n": 22,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 56,
+    "n": 25,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 56,
+    "n": 28,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 11,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 60,
+    "n": 6,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 60,
+    "n": 12,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 60,
+    "n": 18,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 60,
+    "n": 24,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 60,
+    "n": 27,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 60,
+    "n": 30,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 12,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 64,
+    "n": 6,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 64,
+    "n": 13,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 64,
+    "n": 19,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 64,
+    "n": 26,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 64,
+    "n": 29,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 11,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 64,
+    "n": 32,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 13,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 68,
+    "n": 7,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 68,
+    "n": 14,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 68,
+    "n": 20,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 68,
+    "n": 27,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 68,
+    "n": 31,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 11,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 68,
+    "n": 34,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 14,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 72,
+    "n": 7,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 72,
+    "n": 14,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 72,
+    "n": 22,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 72,
+    "n": 29,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 72,
+    "n": 32,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 12,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 72,
+    "n": 36,
+    "table_lower": 4,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2,
+      3
+    ],
+    "B_bd": 15,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 76,
+    "n": 8,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 76,
+    "n": 15,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 76,
+    "n": 23,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 76,
+    "n": 30,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 76,
+    "n": 34,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 12,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 76,
+    "n": 38,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 16,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 80,
+    "n": 8,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 80,
+    "n": 16,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 80,
+    "n": 24,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 80,
+    "n": 32,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 80,
+    "n": 36,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 13,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 80,
+    "n": 40,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 17,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 84,
+    "n": 8,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 84,
+    "n": 17,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 84,
+    "n": 25,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 84,
+    "n": 34,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 11,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 84,
+    "n": 38,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 14,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 84,
+    "n": 42,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 18,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 88,
+    "n": 9,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 88,
+    "n": 18,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 88,
+    "n": 26,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 88,
+    "n": 35,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 11,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 88,
+    "n": 40,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 15,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 88,
+    "n": 44,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 19,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 92,
+    "n": 9,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 92,
+    "n": 18,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 92,
+    "n": 28,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 92,
+    "n": 37,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 12,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 92,
+    "n": 41,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 15,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 92,
+    "n": 46,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 96,
+    "n": 10,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 96,
+    "n": 19,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 96,
+    "n": 29,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 96,
+    "n": 38,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 12,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 96,
+    "n": 43,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 16,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 96,
+    "n": 48,
+    "table_lower": 3,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1,
+      2
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 100,
+    "n": 10,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 100,
+    "n": 20,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 100,
+    "n": 30,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 100,
+    "n": 40,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 13,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 100,
+    "n": 45,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 17,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 100,
+    "n": 50,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 21,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 104,
+    "n": 10,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 104,
+    "n": 21,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 104,
+    "n": 31,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 104,
+    "n": 42,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 14,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 104,
+    "n": 47,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 18,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 104,
+    "n": 52,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 22,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 108,
+    "n": 11,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 108,
+    "n": 22,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 108,
+    "n": 32,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 108,
+    "n": 43,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 14,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 108,
+    "n": 49,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 19,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 108,
+    "n": 54,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 23,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 112,
+    "n": 11,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 112,
+    "n": 22,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 112,
+    "n": 34,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 112,
+    "n": 45,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 15,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 112,
+    "n": 50,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 19,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 112,
+    "n": 56,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 24,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 116,
+    "n": 12,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 116,
+    "n": 23,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 116,
+    "n": 35,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 116,
+    "n": 46,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 15,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 116,
+    "n": 52,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 116,
+    "n": 58,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 25,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 120,
+    "n": 12,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 120,
+    "n": 24,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 120,
+    "n": 36,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 120,
+    "n": 48,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 16,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 120,
+    "n": 54,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 21,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 120,
+    "n": 60,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 26,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 124,
+    "n": 12,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 124,
+    "n": 25,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 124,
+    "n": 37,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 124,
+    "n": 50,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 17,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 124,
+    "n": 56,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 22,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 124,
+    "n": 62,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 27,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 128,
+    "n": 13,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 128,
+    "n": 26,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 128,
+    "n": 38,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 128,
+    "n": 51,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 17,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 128,
+    "n": 58,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 22,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 128,
+    "n": 64,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 28,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 132,
+    "n": 13,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 132,
+    "n": 26,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 132,
+    "n": 40,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 132,
+    "n": 53,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 18,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 132,
+    "n": 59,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 23,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 132,
+    "n": 66,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 29,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 136,
+    "n": 14,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 136,
+    "n": 27,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 136,
+    "n": 41,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 136,
+    "n": 54,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 18,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 136,
+    "n": 61,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 23,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 136,
+    "n": 68,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 30,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 140,
+    "n": 14,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 140,
+    "n": 28,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 4,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 140,
+    "n": 42,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 140,
+    "n": 56,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 19,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 140,
+    "n": 63,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 24,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 140,
+    "n": 70,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 31,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 144,
+    "n": 14,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 144,
+    "n": 29,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 144,
+    "n": 43,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 144,
+    "n": 58,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 144,
+    "n": 65,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 25,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 144,
+    "n": 72,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 32,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 148,
+    "n": 15,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 148,
+    "n": 30,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 148,
+    "n": 44,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 11,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 148,
+    "n": 59,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 148,
+    "n": 67,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 26,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 148,
+    "n": 74,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 32,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 152,
+    "n": 15,
+    "table_lower": 0,
+    "GO_lemma": 0,
+    "excluded_g": [],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 152,
+    "n": 30,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 152,
+    "n": 46,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 11,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 152,
+    "n": 61,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 21,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 152,
+    "n": 68,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 26,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 152,
+    "n": 76,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 33,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 156,
+    "n": 16,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 156,
+    "n": 31,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 156,
+    "n": 47,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 12,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 156,
+    "n": 62,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 21,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 156,
+    "n": 70,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 27,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 156,
+    "n": 78,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 34,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 160,
+    "n": 16,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 160,
+    "n": 32,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 160,
+    "n": 48,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 12,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 160,
+    "n": 64,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 22,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 160,
+    "n": 72,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 28,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 160,
+    "n": 80,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 35,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 164,
+    "n": 16,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 1,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 164,
+    "n": 33,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 164,
+    "n": 49,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 12,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 164,
+    "n": 66,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 23,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 164,
+    "n": 74,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 29,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 164,
+    "n": 82,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 36,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 168,
+    "n": 17,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 168,
+    "n": 34,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 168,
+    "n": 50,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 12,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 168,
+    "n": 67,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 23,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 168,
+    "n": 76,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 30,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 168,
+    "n": 84,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 37,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 172,
+    "n": 17,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 172,
+    "n": 34,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 5,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 172,
+    "n": 52,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 13,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 172,
+    "n": 69,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 24,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 172,
+    "n": 77,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 30,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 172,
+    "n": 86,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 38,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 176,
+    "n": 18,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 176,
+    "n": 35,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 176,
+    "n": 53,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 13,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 176,
+    "n": 70,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 24,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 176,
+    "n": 79,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 31,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 176,
+    "n": 88,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 39,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 180,
+    "n": 18,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 180,
+    "n": 36,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 180,
+    "n": 54,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 13,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 180,
+    "n": 72,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 25,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 180,
+    "n": 81,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 32,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 180,
+    "n": 90,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 40,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 184,
+    "n": 18,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 184,
+    "n": 37,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 184,
+    "n": 55,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 14,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 184,
+    "n": 74,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 26,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 184,
+    "n": 83,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 33,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 184,
+    "n": 92,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 41,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 188,
+    "n": 19,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 188,
+    "n": 38,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 188,
+    "n": 56,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 14,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 188,
+    "n": 75,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 26,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 188,
+    "n": 85,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 34,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 188,
+    "n": 94,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 42,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 192,
+    "n": 19,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 192,
+    "n": 38,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 192,
+    "n": 58,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 15,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 192,
+    "n": 77,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 27,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 192,
+    "n": 86,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 34,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 192,
+    "n": 96,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 43,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 196,
+    "n": 20,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 196,
+    "n": 39,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 196,
+    "n": 59,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 15,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 196,
+    "n": 78,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 27,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 196,
+    "n": 88,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 35,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 196,
+    "n": 98,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 44,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 200,
+    "n": 20,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 200,
+    "n": 40,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 6,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 200,
+    "n": 60,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 15,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 200,
+    "n": 80,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 28,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 200,
+    "n": 90,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 36,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 200,
+    "n": 100,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 45,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 204,
+    "n": 20,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 204,
+    "n": 41,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 204,
+    "n": 61,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 15,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 204,
+    "n": 82,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 29,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 204,
+    "n": 92,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 37,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 204,
+    "n": 102,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 46,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 208,
+    "n": 21,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 208,
+    "n": 42,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 208,
+    "n": 62,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 16,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 208,
+    "n": 83,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 29,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 208,
+    "n": 94,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 38,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 208,
+    "n": 104,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 47,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 212,
+    "n": 21,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 212,
+    "n": 42,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 212,
+    "n": 64,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 16,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 212,
+    "n": 85,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 30,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 212,
+    "n": 95,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 38,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 212,
+    "n": 106,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 47,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 216,
+    "n": 22,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 216,
+    "n": 43,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 216,
+    "n": 65,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 17,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 216,
+    "n": 86,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 30,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 216,
+    "n": 97,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 39,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 216,
+    "n": 108,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 48,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 220,
+    "n": 22,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 220,
+    "n": 44,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 220,
+    "n": 66,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 17,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 220,
+    "n": 88,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 31,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 220,
+    "n": 99,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 39,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 220,
+    "n": 110,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 49,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 224,
+    "n": 22,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 224,
+    "n": 45,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 224,
+    "n": 67,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 17,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 224,
+    "n": 90,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 32,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 224,
+    "n": 101,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 40,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 224,
+    "n": 112,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 50,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 228,
+    "n": 23,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 228,
+    "n": 46,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 228,
+    "n": 68,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 17,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 228,
+    "n": 91,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 32,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 228,
+    "n": 103,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 41,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 228,
+    "n": 114,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 51,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 232,
+    "n": 23,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 232,
+    "n": 46,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 7,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 232,
+    "n": 70,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 18,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 232,
+    "n": 93,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 33,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 232,
+    "n": 104,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 41,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 232,
+    "n": 116,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 52,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 236,
+    "n": 24,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 236,
+    "n": 47,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 236,
+    "n": 71,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 18,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 236,
+    "n": 94,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 33,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 236,
+    "n": 106,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 42,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 236,
+    "n": 118,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 53,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 240,
+    "n": 24,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 240,
+    "n": 48,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 240,
+    "n": 72,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 18,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 240,
+    "n": 96,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 34,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 240,
+    "n": 108,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 43,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 240,
+    "n": 120,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 54,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 244,
+    "n": 24,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 244,
+    "n": 49,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 244,
+    "n": 73,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 19,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 244,
+    "n": 98,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 35,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 244,
+    "n": 110,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 44,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 244,
+    "n": 122,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 55,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 248,
+    "n": 25,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 248,
+    "n": 50,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 248,
+    "n": 74,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 19,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 248,
+    "n": 99,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 35,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 248,
+    "n": 112,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 45,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 248,
+    "n": 124,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 56,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 252,
+    "n": 25,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 252,
+    "n": 50,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 252,
+    "n": 76,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 252,
+    "n": 101,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 36,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 252,
+    "n": 113,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 45,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 252,
+    "n": 126,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 57,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 256,
+    "n": 26,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 256,
+    "n": 51,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 8,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 256,
+    "n": 77,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 256,
+    "n": 102,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 36,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 256,
+    "n": 115,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 46,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 256,
+    "n": 128,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 58,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 260,
+    "n": 26,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 260,
+    "n": 52,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 260,
+    "n": 78,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 260,
+    "n": 104,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 37,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 260,
+    "n": 117,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 47,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 260,
+    "n": 130,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 59,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 264,
+    "n": 26,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 264,
+    "n": 53,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 264,
+    "n": 79,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 264,
+    "n": 106,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 38,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 264,
+    "n": 119,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 48,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 264,
+    "n": 132,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 60,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 268,
+    "n": 27,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 268,
+    "n": 54,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 268,
+    "n": 80,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 20,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 268,
+    "n": 107,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 38,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 268,
+    "n": 121,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 49,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 268,
+    "n": 134,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 61,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 272,
+    "n": 27,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 272,
+    "n": 54,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 272,
+    "n": 82,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 21,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 272,
+    "n": 109,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 39,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 272,
+    "n": 122,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 49,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 272,
+    "n": 136,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 62,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 276,
+    "n": 28,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 276,
+    "n": 55,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 276,
+    "n": 83,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 21,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 276,
+    "n": 110,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 39,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 276,
+    "n": 124,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 50,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 276,
+    "n": 138,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 63,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 280,
+    "n": 28,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 280,
+    "n": 56,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 9,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 280,
+    "n": 84,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 22,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 280,
+    "n": 112,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 40,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 280,
+    "n": 126,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 51,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 280,
+    "n": 140,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 64,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 284,
+    "n": 28,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 284,
+    "n": 57,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 284,
+    "n": 85,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 22,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 284,
+    "n": 114,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 41,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 284,
+    "n": 128,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 52,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 284,
+    "n": 142,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 65,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 288,
+    "n": 29,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 288,
+    "n": 58,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 288,
+    "n": 86,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 22,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 288,
+    "n": 115,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 41,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 288,
+    "n": 130,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 53,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 288,
+    "n": 144,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 65,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 292,
+    "n": 29,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 2,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 292,
+    "n": 58,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 292,
+    "n": 88,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 23,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 292,
+    "n": 117,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 42,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 292,
+    "n": 131,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 53,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 292,
+    "n": 146,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 66,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 296,
+    "n": 30,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 296,
+    "n": 59,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 296,
+    "n": 89,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 23,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 296,
+    "n": 118,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 42,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 296,
+    "n": 133,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 54,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 296,
+    "n": 148,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 67,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 300,
+    "n": 30,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 300,
+    "n": 60,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 300,
+    "n": 90,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 23,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 300,
+    "n": 120,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 43,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 300,
+    "n": 135,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 55,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 300,
+    "n": 150,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 68,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 304,
+    "n": 30,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 304,
+    "n": 61,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 304,
+    "n": 91,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 24,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 304,
+    "n": 122,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 44,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 304,
+    "n": 137,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 56,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 304,
+    "n": 152,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 69,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 308,
+    "n": 31,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 308,
+    "n": 62,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 308,
+    "n": 92,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 24,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 308,
+    "n": 123,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 44,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 308,
+    "n": 139,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 57,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 308,
+    "n": 154,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 70,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 312,
+    "n": 31,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 312,
+    "n": 62,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 10,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 312,
+    "n": 94,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 25,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 312,
+    "n": 125,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 45,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 312,
+    "n": 140,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 57,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 312,
+    "n": 156,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 71,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 316,
+    "n": 32,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 316,
+    "n": 63,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 11,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 316,
+    "n": 95,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 25,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 316,
+    "n": 126,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 45,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 316,
+    "n": 142,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 58,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 316,
+    "n": 158,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 72,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 320,
+    "n": 32,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 3,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 320,
+    "n": 64,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 11,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 320,
+    "n": 96,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 25,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 320,
+    "n": 128,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 46,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 320,
+    "n": 144,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 59,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  },
+  {
+    "L": 320,
+    "n": 160,
+    "table_lower": 2,
+    "GO_lemma": 0,
+    "excluded_g": [
+      1
+    ],
+    "B_bd": 73,
+    "translation": "Use monotonicity G(g,k)<=G(g,n) for every tabulated k<=n; exclude g if a known diameter exceeds L-1"
+  }
+]

@@ -2,9 +2,10 @@
 
 **Authors:** Chao Mu and Qichun Wang.  
 **Version:** 1.5.0; prepared on 2026-10-12.  
-**Status at preparation:** Local public-release package; not yet uploaded or published.  
-**GitHub repository:** Not assigned.  
-**Zenodo version DOI:** Not assigned.
+**Status:** Publicly released on GitHub and archived in Zenodo (version 1.5.0).
+**GitHub repository:** https://github.com/DI-VIR/finite-difference-multiplicity
+**Zenodo version DOI:** https://doi.org/10.5281/zenodo.23313897
+
 
 This package is prepared for public distribution under the licenses below.
 The authors' licensing authorization has been confirmed. This statement does

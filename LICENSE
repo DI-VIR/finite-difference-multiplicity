@@ -1,0 +1,79 @@
+LICENSES AND SCOPE
+
+Copyright (c) 2026 Chao Mu and Qichun Wang
+
+This package uses different licenses for software and research materials.
+The grants below apply only to rights held by the authors. They do not
+relicense third-party works, source-table content, or external dependencies.
+
+1. SOFTWARE: MIT
+
+The authors' original Python code in src/ and tests/, runnable code examples,
+requirements.txt, and associated in-code documentation are licensed under
+the MIT License reproduced below.
+
+MIT License
+
+Copyright (c) 2026 Chao Mu and Qichun Wang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Canonical license: https://opensource.org/license/mit
+SPDX identifier: MIT
+
+2. ORIGINAL DATA AND STANDALONE DOCUMENTATION: CC BY 4.0
+
+The authors' original research records, witnesses, certificates, computed
+tables, protocols, metadata, and standalone documentation in data/, tables/,
+manifest/, MANIFEST.json, and README.md are licensed under the Creative
+Commons Attribution 4.0 International Public License (CC BY 4.0), except for
+software covered by section 1 and third-party content described in section 3.
+
+The full CC BY 4.0 legal code is incorporated by reference:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+License summary: https://creativecommons.org/licenses/by/4.0/
+SPDX identifier: CC-BY-4.0
+
+For attribution, identify Chao Mu and Qichun Wang, the package title and
+version, retain the supplied copyright and license notices, link to the
+license and available source record, and indicate modifications. The full
+legal code governs reuse. The citation guidance in README.md is a suggested
+academic citation, not an additional license condition.
+
+3. THIRD-PARTY MATERIAL AND EXCLUSIONS
+
+External software, cited publications, and any third-party material retain
+their original rights and license terms. The grants in sections 1 and 2 do
+not imply that the authors own or can sublicense those rights.
+
+In particular, data/published_diameters.json records numerical source cells
+with their original source URLs. Those source cells, and source values
+reproduced in comparison records or tables, are not relicensed by this
+package. CC BY 4.0 covers only the authors' original contributions to the
+compilation, annotations, and computed comparisons. No new exclusive right
+is claimed over facts or public-domain material.
+
+The manuscript, supplementary document, publication artwork, and private
+editorial materials are not included in this release and are not licensed
+by this file. Academic citation of a publication does not transfer its
+copyright or grant redistribution permission.
+
+NumPy, SciPy, SymPy, and the HiGHS solver are external dependencies, not
+bundled third-party distributions. Their respective license notices and
+conditions continue to apply when those dependencies are installed or used.
